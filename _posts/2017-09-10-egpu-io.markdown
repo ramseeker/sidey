@@ -1,0 +1,29 @@
+---
+title: "\n\t\t\t\teGPU.io\t\t"
+date: 2017-09-10 03:21:35 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/egpu-io/
+wordpress_id: 4960
+---
+
+[eGPU.io ](http://egpu.io)is a website dedicated to all things dedicated to using an external GPU with your computer:
+
+
+
+
+<blockquote> eGPU.io is the definitive eGPU community formed by enthusiasts
+> 
+> 
+
+> 
+> Our mission is to make eGPUs simple and accessible to everyone
+> 
+> </blockquote>
+
+
+		

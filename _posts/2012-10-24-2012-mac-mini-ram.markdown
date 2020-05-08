@@ -1,0 +1,49 @@
+---
+title: "\n\t\t\t\t2012 Mac Mini RAM\t\t"
+date: 2012-10-24 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/2012-mac-mini-ram/
+wordpress_id: 5202
+---
+
+The memory prices below are for the 2012 Apple Mac Mini models:
+
+
+
+
+
+
+  * 
+
+
+Apple Mac Mini 2.5GHz dual-core Intel Core i5
+
+
+
+
+
+  * 
+
+
+Apple Mac Mini 2.3GHz quad-core Intel Core i7
+
+
+
+
+
+
+
+The Apple Mac Mini can be configured to either 8GB or 16GB of RAM. I suggest upgrading to 16GB by buying 2x 8GB DDR3 SDRAM sodimms. See the cheapest RAM Prices for the 2012 Apple Mac Mini below:
+
+
+
+
+[table id=15 /]
+
+
+		

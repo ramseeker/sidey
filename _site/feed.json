@@ -1,0 +1,884 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jim Fitzsimmons",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "I'm writing here.",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "tidyhusband",
+        "url": "http://www.jim.am",
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/new-look-again/",
+            "title": "The New, New Look",
+            "summary": null,
+            "content_text": "I really hadn’t meant for this to happen but I was browsing jamstack themes for what might possibly be a new theme for this site and lo and behold, I found one.I then tweaked it some and here we are. redesign number 1000, or at least it feels like it.I have essentially combined this site into two parts: links and posts.If it’s blue - it’s a link to an external site.If it’s black - it’s a link to an internal page like this postThat’s it!This will allow me to link to stuff I find interesting and then write about stuff I want to write about - all on the same site. So far, I like this new look.",
+            "content_html": "<p>I really hadn’t meant for this to happen but I was browsing <a href=\"https://jamstackthemes.dev/\">jamstack themes</a> for what might possibly be a new theme for this site and lo and behold, I found one.</p><p>I then tweaked it some and here we are. redesign number 1000, or at least it feels like it.</p><p>I have essentially combined this site into two parts: links and posts.</p><p>If it’s blue - it’s a link to an external site.If it’s black - it’s a link to an internal page like this post</p><p>That’s it!</p><p>This will allow me to link to stuff I find interesting and then write about stuff I want to write about - all on the same site. So far, I like this new look.</p>",
+            "url": "http://localhost:4000/new-look-again/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-07T00:00:00-04:00",
+            "date_modified": "2020-05-07T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/dickies-socks-cheap/",
+            "title": "Dickies Men's Dri-tech Moisture Control Crew Socks",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/dickies-socks-cheap/",
+            
+            "external_url": "https://amzn.to/2yAKx4I",
+            
+            
+            
+            "date_published": "2020-05-07T00:00:00-04:00",
+            "date_modified": "2020-05-07T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/avexchange/",
+            "title": "AV Exchange",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/avexchange/",
+            
+            "external_url": "http://reddit.com/r/avexchange",
+            
+            
+            
+            "date_published": "2020-05-07T00:00:00-04:00",
+            "date_modified": "2020-05-07T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/reddit-headphones-subreddit/",
+            "title": "Headphones Reddit",
+            "summary": "a great resource for headphone listeners",
+            "content_text": "The reddit headphone subreddit is a great resource for learning about headphones and discussing them as well. I have learned a lot about headphones lurking on this site.",
+            "content_html": "<p><img src=\"/images/redditheadphones.png\" alt=\"reddit\" /></p><p>The <a href=\"http://reddit.com/r/headphones\">reddit headphone</a> subreddit is a great resource for learning about headphones and discussing them as well. I have learned a lot about headphones lurking on this site.</p>",
+            "url": "http://localhost:4000/reddit-headphones-subreddit/",
+            
+            "external_url": "http://www.reddit.com/r/headphones",
+            
+            
+            
+            "date_published": "2020-05-06T00:00:00-04:00",
+            "date_modified": "2020-05-06T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/on-linked-posts/",
+            "title": "On Link Posts",
+            "summary": null,
+            "content_text": "I always thought linked posts were kind of lame as it take less than a minute to link to stuff and usually pull a quote out of somebody else’s site and then link to it.So now, I am doing it. I have done it in the past so this really isn’t all that new afterall and I prefer to write my own content but if you see an arrow after the title then it’s a linked post.I really just want a way to stay organized and link to stuff that interests me. I figure if it interests me then maybe you will like it too.",
+            "content_html": "<p>I always thought linked posts were kind of lame as it take less than a minute to link to stuff and usually pull a quote out of somebody else’s site and then link to it.</p><p>So now, I am doing it. I have done it in the <a href=\"https://jim.am/array-themes\">past</a> so this really isn’t all that new afterall and I prefer to write my own content but if you see an arrow after the title then it’s a linked post.</p><p>I really just want a way to stay organized and link to stuff that interests me. I figure if it interests me then maybe you will like it too.</p>",
+            "url": "http://localhost:4000/on-linked-posts/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-06T00:00:00-04:00",
+            "date_modified": "2020-05-06T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/focal-elear-headphones/",
+            "title": "My Favorite Headphone",
+            "summary": "The Focal Elear",
+            "content_text": "These are my favorite sounding headphones. I have others but these are the ones I keep going back to. These were $1000 so the fact that you canget these for less than half that if you shop around is a pretty good deal.",
+            "content_html": "<p><img src=\"/images/elear.png\" alt=\"elear\" /></p><p>These are my favorite sounding headphones. I have others but <a href=\"https://amzn.to/2YI0SPF\">these are the ones</a> I keep going back to. These were $1000 so the fact that you canget these for less than half that if you shop around is a pretty good deal.</p>",
+            "url": "http://localhost:4000/focal-elear-headphones/",
+            
+            "external_url": "https://amzn.to/2YI0SPF",
+            
+            
+            
+            "date_published": "2020-05-06T00:00:00-04:00",
+            "date_modified": "2020-05-06T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/coronavirus-updates-page/",
+            "title": "NY Times Coronavirus Page",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/coronavirus-updates-page/",
+            
+            "external_url": "http://nytimes.com/news-event/coronavirus",
+            
+            
+            
+            "date_published": "2020-05-06T00:00:00-04:00",
+            "date_modified": "2020-05-06T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/printer-fax-machine/",
+            "title": "How to Send a Free Fax in 2020 during COVID",
+            "summary": null,
+            "content_text": "How is this still even a thing?Surely there must some way to send an encrypted email or some secure thing that would allow you to get the same result.Nobody I know has a land line or even funnier - a modem. Yes, my printer has a fax machine in it but again - land line. Nobody knows what these are. My daughter won’t that’s for sure.So. I had a problem: Send a fax while the entire country is pretty much shut down.Yeah, good luck with that. So, some google FU skills found faxzero and because I had a few pages to send it cost me $2.00 via Paypal but I am okay with that. And according to the website it was sent, and  I got an email saying so with a confirmation so hooray, fax sent.Now in the morning I will call and be sure they got it, because you never know if they did or not but how can a fax machine be relevant in this new decade.I just find it hard to believe I can upload this entire site to Google’s servers to host for free by typing two words but I have to scramble to figure out how to send a fax.I’m not sure what the solution would be. Under ‘normal’ circumstances you can usually find somewhere that will send or receive a fax for you locally and I guess if you fax a lot then the land/fax line thing isn’t a big deal, but for us deplorables that use mobile phones as their only communication device we’re sunk.The best thing would be to get rid of the fax altogether and then you wouldn’t have to worry. Apple’s phones can lock you out so it’s worthless, so the privacy technology is available or at least doable. I guess the trick is how? Heck, I can rent a server that’s HIPAA safe for a few bucks. It must be possible to do better than having to rely on faxes in 2020Maybe this is like trying to ‘build a better mouse trap’. The old mouse trap works fine, so why screw with it?This must be the case with faxes, because it’s not like everybody has easy access to a fax machine these days.",
+            "content_html": "<p><img src=\"/images/printer.jpg\" alt=\"printer\" /></p><p>How is this still even a thing?</p><p><strong>Surely</strong> there must some way to send an encrypted email or some secure thing that would allow you to get the same result.</p><p>Nobody I know has a land line or even funnier - a modem. Yes, my printer has a fax machine in it but again - land line. Nobody knows what these are. My daughter won’t that’s for sure.</p><p>So. I had a problem: Send a fax while the <strong>entire country</strong> is pretty much shut down.</p><p>Yeah, good luck with that. So, some google FU skills found <a href=\"http://faxzero.com\">faxzero</a> and because I had a few pages to send it cost me $2.00 via Paypal but I am okay with that. And according to the website it was sent, and  I got an email saying so with a confirmation so hooray, fax sent.</p><p>Now in the morning I will call and be sure they got it, because you never know if they did or not but how can a fax machine be relevant in this new decade.</p><p>I just find it hard to believe I can upload this entire site to Google’s servers to host <strong>for free</strong> by typing two words but I have to scramble to figure out how to send a fax.</p><p>I’m not sure what the solution would be. Under ‘normal’ circumstances you can usually find somewhere that will send or receive a fax for you locally and I guess if you fax a lot then the land/fax line thing isn’t a big deal, but for us deplorables that use mobile phones as their only communication device we’re sunk.</p><p>The best thing would be to <strong>get rid of the fax</strong> altogether and then you wouldn’t have to worry. Apple’s phones can lock you out so it’s worthless, so the privacy technology is available or at least doable. I guess the trick is how? Heck, I can <a href=\"https://cloud.google.com/security/compliance/hipaa\">rent a server</a> that’s HIPAA safe for a few bucks. It must be possible to do better than having to rely on faxes in 2020</p><p>Maybe this is like trying to ‘build a better mouse trap’. The old mouse trap works fine, so why screw with it?</p><p>This must be the case with faxes, because it’s not like everybody has easy access to a fax machine these days.</p>",
+            "url": "http://localhost:4000/printer-fax-machine/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-05T00:00:00-04:00",
+            "date_modified": "2020-05-05T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/one-month-of-blogging/",
+            "title": "One Month of Writing",
+            "summary": null,
+            "content_text": "I did it. I managed to write a post here every day for a month.At the start it wasn’t easy. But, it’s getting easier so I thought about what I have learned so far.You have to make the time. Nobody is going to help you with this. If it’s important enough to you, you will find the time.It gets easierIt doesn’t really matter what you write.If I had to give one piece of advice it would be number 3. Just start. Write about your kid, your shoe collection your new lawnmower or whatever else. Eventually you will figure it out. The trick to become a writer (which is kind of the goal here) is to write.For too long I spent buying wordpress themes and expensive hosting and getting things all set up and then I wouldn’t actually  stick with it or I would spend more time tweaking than writing. I had it backwards. This time around I am using the simplest blogging format and one of the plainest themes and I get to it.I write with a Chromebook so I use the fantastic caret text editor to write and it does the trick.For the photos, I grab a free one from Pexels and I’m off to the races.I build my site, and upload it to my webhost and I’m done.All this takes me about 15 minutes. I guarantee I have spent more time today on reddit than writing, so I still have some way to go but for me I put on my headphones and I get to it. I usually don’t have any idea what I am going to write about until I start to write but I would like to be able to get a few draft posts ready.I figure I might as well take advantage of the stay at home orders and do something productive other than following my toddler around trying to keep her out of trouble. And in a way, this writing is good stress relief too. It’s good to get your thoughts down - even if nobody reads them.This site is for me first and foremost and if you get some enjoyment out of it great, but this isn’t about ‘building a brand’ or whatever hot blogging strategy is these days. I’m just happy watching my cursor fly across the screen.Now the trick will be to see if I can continue for another 30 days",
+            "content_html": "<p><img src=\"/images/typewriter.webp\" alt=\"typewriter\" /></p><p>I did it. I managed to write a post here <strong>every day</strong> for a month.</p><p>At the start it wasn’t easy. But, it’s getting easier so I thought about what I have learned so far.</p><ol><li>You have to make the time. Nobody is going to help you with this. If it’s important enough to you, you <strong>will</strong> find the time.</li><li>It gets easier</li><li>It doesn’t really matter what you write.</li></ol><p>If I had to give one piece of advice it would be number 3. Just start. Write about your kid, your shoe collection your <a href=\"https://jim.am/new-cordless-mower/\">new lawnmower</a> or whatever else. Eventually you will figure it out. The trick to become a writer (which is kind of the goal here) is to write.</p><p>For too long I spent buying wordpress themes and expensive hosting and getting things <strong>all set up</strong> and then I wouldn’t actually  stick with it or I would spend more time tweaking than writing. I had it backwards. This time around I am using the <a href=\"http://jekyllrb.com\">simplest blogging format</a> and one of the <a href=\"http://getpoole.com\">plainest themes</a> and I get to it.</p><p>I write with a <a href=\"https://amzn.to/2YvWcfT\">Chromebook</a> so I use the fantastic <a href=\"https://thomaswilburn.net/caret/\">caret</a> text editor to write and it does the trick.</p><p>For the photos, I grab a free one from <a href=\"http://www.pexels.com\">Pexels</a> and I’m off to the races.</p><p>I build my site, and upload it to my webhost and I’m done.</p><p>All this takes me about 15 minutes. I guarantee I have spent more time today on <a href=\"http://www.reddit.com\">reddit</a> than writing, so I still have some way to go but for me I put on my headphones and I get to it. I usually don’t have any idea what I am going to write about until I start to write but I would like to be able to get a few draft posts ready.</p><p>I figure I might as well take advantage of the stay at home orders and do <strong>something</strong> productive other than following my toddler around trying to keep her out of trouble. And in a way, this writing is good stress relief too. It’s good to get your thoughts down - even if nobody reads them.</p><p>This site is <strong>for me</strong> first and foremost and if you get some enjoyment out of it great, but this isn’t about ‘building a brand’ or whatever hot blogging strategy is these days. I’m just happy watching my cursor fly across the screen.</p><p>Now the trick will be to see if I can continue for <strong>another 30 days</strong></p>",
+            "url": "http://localhost:4000/one-month-of-blogging/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-04T00:00:00-04:00",
+            "date_modified": "2020-05-04T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/new-cordless-mower/",
+            "title": "The Mower",
+            "summary": null,
+            "content_text": "I bought a new lawnmower today.I know, exciting.I had a $300 budget for one and I came in at just a dollar over due to taxes. Our current mower has been going great for sometime, but - it’s time. I have replaced more than one power switch on the thing and there comes a point where you don’t want to spend any more on a old electric mower.So new mower. Exciting.Actually, it is kind of exciting. This will be the 3rd mower I will have had in the past 8 years:The first one came with the house! I don’t think it’s ever a good idea for a mower to be included with the house as chances are the thing isn’t worth moving and with this one, I think this was the case. It met it’s death due to the fact the steering broke and I ran into a fence with it.My current mower is a cheapo electric job I have had for about 5 years so for the price I paid it has served us well. The breakdown for this one seems to be wheels that wobble, and the safety switch that turns off the mower stopped working last fall and that’s the nail in the coffin for it. It could be fixed for about $40, but then there’s still the wheels, and dull blade and it’s corded.I don’t really mind using a corded mower. The trick is to mow away fromt the outlet. Once you have that figured out you are golden.The new mower seems…fine. It’s battery powered so might be a little quieter which would be nice as I like to listen to podcasts while I am sweltering under the summer sun. The battery seems to be most of the cost as the rest of it looks like what you pay for - lots of plastic. But at $300, it’s stil a lot cheaper than a riding mower which we don’t need and a lot cheaper than than having someone come and mow the lawn once a week so there’s that.I also get a bit of exercise with this push mower so that’s always a good thing - especially this spring with the COVID lockdown where it seems that if I walk across the room it’s considered ‘exercise’ by my fitness app. I know I pushed my old mower around today and I’m feeling it. I hope this new mower isn’t all that heavy.If I never had to mow a lawn again I would be good with that, and the time will eventually come for that but for now there’s worse things to do than get a bit of exercise mowing the lawn?",
+            "content_html": "<p><img src=\"/images/mower.jpg\" alt=\"mower\" /></p><p>I bought a <a href=\"https://amzn.to/2VZPxcj\">new lawnmower today.</a></p><p>I know, exciting.</p><p>I had a $300 budget for one and I came in at just a dollar over due to taxes. Our current mower has been going great for sometime, but - it’s time. I have replaced more than one power switch on the thing and there comes a point where you don’t want to spend any more on a old electric mower.</p><p>So new mower. Exciting.</p><p>Actually, it is kind of exciting. This will be the 3rd mower I will have had in the past 8 years:</p><p>The first one <strong>came with the house</strong>! I don’t think it’s ever a good idea for a mower to be included with the house as chances are <strong>the thing isn’t worth moving</strong> and with this one, I think this was the case. It met it’s death due to the fact the steering broke and I ran into a fence with it.</p><p>My current mower is a cheapo electric job I have had for about 5 years so for the <a href=\"https://amzn.to/2WrCXkO\">price I paid</a> it has served us well. The breakdown for this one seems to be wheels that wobble, and the safety switch that turns off the mower stopped working last fall and that’s the nail in the coffin for it. It could be fixed for about $40, but then there’s still the wheels, and dull blade and it’s corded.</p><p>I don’t really mind using a corded mower. The trick is to mow away fromt the outlet. Once you have that figured out you are golden.</p><p>The new mower seems…fine. It’s battery powered so might be a little quieter which would be nice as I like to listen to podcasts while I am sweltering under the summer sun. The battery seems to be most of the cost as the rest of it looks like what you pay for - lots of plastic. But at $300, it’s stil a lot cheaper than a riding mower which we don’t need and a <strong>lot</strong> cheaper than than having someone come and mow the lawn once a week so there’s that.</p><p>I also get a bit of exercise with this push mower so that’s always a good thing - especially this spring with the COVID lockdown where it seems that if I walk across the room it’s considered ‘exercise’ by my fitness app. I know I pushed my old mower around today and I’m feeling it. I hope this new mower isn’t all that heavy.</p><p>If I never had to mow a lawn again I would be good with that, and the time will eventually come for that but for now there’s worse things to do than get a bit of exercise mowing the lawn?</p>",
+            "url": "http://localhost:4000/new-cordless-mower/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-03T00:00:00-04:00",
+            "date_modified": "2020-05-03T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/chasing-the-dragon/",
+            "title": "Chasing the Dragon",
+            "summary": null,
+            "content_text": "I’m a guy. I like technology. The wife, she hates it and just wants it to work.Me? I want the fastest/best/brightest I can get for my dollar. Which brings me to audio and lately the slippery slope called headphones listening.I’ve always been a stereo guy and have amplifiers and speakers and the like but lately due to the fact that I live with people and that one of those persons is just about to walk any day now:I thought that if I just put the speaker grills on then my speakers would be toddler safe. Silly me. The stereo is going away for a while.This means I have been using headphones at my desk in my little man cave/home ofice and have been buying and trying different headphones and amplifiers to see what I like. For the most part, I buy used so I lose very little on the sale if I don’t like it I can just return it and buy something else.And today my new headphone amplifier came and…it’s awesome. It’s the SMSL SP200 and there is zero hiss, noise, pops or even ‘flavor’ that some other amplifiers have. You get the music just as it was intended to be. I have other amplifiers that sound a little warmer or ‘fun’ whatever that means but I suggest this amp for a nice clean sound.And this brings me to this: I’m done.It took me a few months but I have found the headphone and amplifier system that works for me. Music is very, very subjective and you can go deep chasing the dragon looking for the best sound possible and if I was in my 20’s and single I probably would spend entire paychecks at the stereo store (stereo stores….remember them?) but for the hour or so after wife and kid go to bed I have the gear I need to relax and undwind and listen to the music  - and gear - I already have.This dragon chasing is a sneaky thing. Especially with stereos - more money does not equal better sound sometimes. My little amplifier I love is made in China and is a cheap amp with great technology. It’s well built and works well. It doesn’t have some brand name ** cough, (bose) that you are paying for.But for me to get better sound I would have to spend considerably more that my little wonder from China on my desk. This applies to a lot of other hobbies - are golf clubs that are twice as much in cost improve your game 2x? Probably not. The same goes with stereos - The technology has been the same for a long time and yes, there are improvements and there are those that measure those improvements but for some of us we just want to play hotel california one more time and have it sound like we remembered it on that old stereo.So, for the most part I’m done. I have some headphones, hotel california sounds pretty good and the kid is in bed asleep.Someone else can chase the dragon. I’m too tired.",
+            "content_html": "<p><img src=\"/images/headphones.webp\" alt=\"headphones\" /></p><p>I’m a guy. I like technology. The wife, she hates it and just wants it to work.</p><p>Me? I want the fastest/best/brightest I can get for my dollar. Which brings me to audio and lately the slippery slope called headphones listening.</p><p>I’ve always been a stereo guy and have amplifiers and speakers and the like but lately due to the fact that <strong>I live with people</strong> and that one of those persons is just about to walk any day now:</p><p><img src=\"/images/toybox.webp\" alt=\"toybox\" /></p><p>I thought that if I just put the speaker grills on then my speakers would be toddler safe. Silly me. The stereo is going away for a while.</p><p>This means I have been using headphones at my desk in my little man cave/home ofice and have been buying and trying different headphones and amplifiers to see what I like. For the most part, I buy used so I lose very little on the sale if I don’t like it I can just return it and buy something else.</p><p>And today my new headphone amplifier came and…it’s awesome. It’s the <a href=\"https://amzn.to/2WnD6FR\">SMSL SP200</a> and there is <strong>zero</strong> hiss, noise, pops or even ‘flavor’ that some other amplifiers have. You get the music just as it was intended to be. I have other amplifiers that sound a little warmer or ‘fun’ whatever that means but I suggest this amp for a nice clean sound.</p><p>And this brings me to this: I’m done.</p><p>It took me a few months but I have found the headphone and amplifier system that <strong>works for me</strong>. Music is very, very subjective and you can go <strong>deep</strong> chasing the dragon looking for the best sound possible and if I was in my 20’s and single I probably would spend entire paychecks at the stereo store (stereo stores….remember them?) but for the hour or so after wife and kid go to bed I have the gear I need to relax and undwind and <strong>listen to the music</strong>  - and gear - I already have.</p><p>This dragon chasing is a sneaky thing. Especially with stereos - more money does not equal better sound sometimes. My little amplifier I love is made in China and is a cheap amp with great technology. It’s well built and works well. It doesn’t have some brand name ** <strong>cough, (bose)</strong> that you are paying for.</p><p>But for me to get better sound I would have to spend <strong>considerably more</strong> that my little wonder from China on my desk. This applies to a lot of other hobbies - are golf clubs that are twice as much in cost improve your game 2x? Probably not. The same goes with stereos - The technology has been the same for a long time and yes, there are improvements and there are those <a href=\"http://www.audiosciencereview.com\">that measure</a> those improvements but for some of us we just want to play <a href=\"https://en.wikipedia.org/wiki/Hotel_California\">hotel california</a> one more time and have it sound like we remembered it on that old stereo.</p><p>So, for the most part I’m done. I have some headphones, hotel california sounds pretty good and the kid is in bed asleep.</p><p>Someone else can chase the dragon. I’m too tired.</p>",
+            "url": "http://localhost:4000/chasing-the-dragon/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-02T00:00:00-04:00",
+            "date_modified": "2020-05-02T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/ask-for-it/",
+            "title": "Asking for It",
+            "summary": null,
+            "content_text": "If there’s one thing I have learned in my old age is that you should ask for stuff.Ask for a deal, ask for better, ask for a raise. As a (somewhat) introverted this can be hard but a lot of times not a whole lot of people want to say no to you and the end result is that you end up getting what you want.A recent example: A screw in our high chair fell out. At first I thought I would just go to the hardware store and find a replacement but due to the pandemic, going outside to get a screw wasn’t the best choice.So I emailed the manufacturer and asked if they had any extras. They did. One is on the way for free.I don’t know if this chair has a warranty of any kind, but it should. It was close to $150.00 so one would think it would last more than a year without parts falling out, but maybe they didn’t test against a rambunctious toddler like mine and didn’t expect screws to wiggle out of the thing.Anyway, new screw on the way. For Free. Because I asked.",
+            "content_html": "<p><img src=\"/images/question.webp\" alt=\"image\" /></p><p>If there’s one thing I have learned in my old age is that <strong>you should ask</strong> for stuff.</p><p>Ask for a deal, ask for better, ask for a raise. As a (somewhat) introverted this can be hard but a lot of times not a whole lot of people want to say no to you and the end result is that you end up getting what you want.</p><p>A recent example: A screw in our <a href=\"https://jim.am/high-chair/\">high chair</a> fell out. At first I thought I would just go to the hardware store and find a replacement but due to the pandemic, going outside to get a screw wasn’t the best choice.</p><p>So I emailed the manufacturer and asked if they had any extras. They did. One is on the way for free.</p><p>I don’t know if <a href=\"https://amzn.to/34xN9fn\">this chair</a> has a warranty of any kind, but it should. It was close to $150.00 so one would think it would last more than a year without parts falling out, but maybe they didn’t test against a rambunctious toddler like mine and didn’t expect screws to wiggle out of the thing.</p><p>Anyway, new screw on the way. For Free. Because I asked.</p>",
+            "url": "http://localhost:4000/ask-for-it/",
+            
+            
+            
+            
+            
+            "date_published": "2020-05-01T00:00:00-04:00",
+            "date_modified": "2020-05-01T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/cookie-monster/",
+            "title": "The Cookie Monster",
+            "summary": null,
+            "content_text": "The cookie monster landed at our house today. Her Grandmother heard that she liked Sesame Street and the cookie monster and next thing you know there’s a cookie monster toy on the front porch.Apparenty that’s how this works. Next time, I’m going to tell her she likes a new Apple MacBook Air and see how that pans out. :)Back to the cookie monster: It’s blue and talks “cookie monster” “nom, nom, nom”.That’s the good part. The bad part is it does this nonstop which could be a bit of a pain in the ass if your kid likes this toy as mine does. Adults can only handle so much cookie monster.And to make matters worse (or better, depending on your view) there are now home-made chocolate cookies in the house. If these don’t get put away  **I’m the one thats going to turn into a (very large) cookie monster.",
+            "content_html": "<p><img src=\"/images/cookies.webp\" alt=\"cookies\" /></p><p>The cookie monster landed at our house today. Her Grandmother heard that she liked Sesame Street and the cookie monster and next thing you know there’s a <a href=\"https://amzn.to/2xnQHVt\">cookie monster toy</a> on the front porch.</p><p>Apparenty that’s how this works. Next time, I’m going to tell her she likes a new Apple MacBook Air and see how that pans out. :)</p><p>Back to the cookie monster: It’s blue and talks “cookie monster” “nom, nom, nom”.</p><ul><li>That’s the good part. The bad part is it does this <strong>nonstop</strong> which could be a bit of a pain in the ass if your kid likes this toy as mine does. Adults can only handle so much cookie monster.</li></ul><p>And to make matters worse (or better, depending on your view) there are now home-made chocolate cookies in the house. If these don’t get put away  **I’m the one thats going to turn into a (very large) <strong>cookie monster</strong>.</p>",
+            "url": "http://localhost:4000/cookie-monster/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-30T00:00:00-04:00",
+            "date_modified": "2020-04-30T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/usps-porch-pickup/",
+            "title": "USPS Home Pickup Service",
+            "summary": null,
+            "content_text": "It’s nice when it works.I usually sell stuff via eBay and have had over 1000 transactions and have been a member for 23 years (!!) and I have bought and thousands and thousands of dollars of stuff without much trouble.And of course, the one time I didn’t sell on eBay and left a package on the porch USPS lets me down!The other day I sold an item via reddit to another user. I know there’s scams and the like but this is a pretty specific item the fellow wanted to buy and I had one I wasn’t using much so I sent a note that I had one. We worked out a price, he paid via Paypal and would be good.Last night I printed a shipping label and arranged to have USPS pick it up when they drop off the mail. By staying home, I’m doing my duty to stay home and save lives. Usually, I prefer to drop off my packages in person, but these are strange times so I do my best to help.In the morning, I put the package on the porch for pickup and notice about lunchtime it’s gone so I assume it’s been picked up and all good, yes?Of course, this is the package that for whatever reason doesn’t get scanned or there’s no tracking information for.  That means I have no idea if and when it gets delivered. Sigh. I usually get a confirmation email that they have picked up the package or at least I have a tracking number, but not this time.This is not a big problem at all and the worse case is that I’m out a bit of money and life goes. But still, I would have loved to have this one package delivered without fail, but that does not seem to be the case.There’s a small chance that the package was stolen in the 3 hours it was on the porch, but I kind of doubt it as I live in a pretty quiet neighborhood even without the pandemic and with it- it’s even quieter.I hope this is just a ghost in the machine and it will all work out in the end. Compared to other things going on, the fact that I don’t have a tracking number seems rather small, but sometimes it’s the small things that bug you the most.And this bugs me.",
+            "content_html": "<p><img src=\"/images/nicehouse.webp\" alt=\"house\" /></p><p>It’s nice when it works.</p><p>I usually sell stuff via <a href=\"http://www.ebay.com\">eBay</a> and have had over 1000 transactions and have been a member for 23 years (!!) and I have bought and thousands and thousands of dollars of stuff without much trouble.</p><p>And of course, the <strong>one time</strong> I didn’t sell on eBay and left a package on the porch <a href=\"http://usps.com\">USPS</a> lets me down!</p><p>The other day I sold an item via reddit to another user. I know there’s scams and the like but this is a pretty specific item the fellow wanted to buy and I had one I wasn’t using much so I sent a note that I had one. We worked out a price, he paid via <a href=\"http://paypal.com\">Paypal</a> and would be good.</p><p>Last night I printed a shipping label and arranged to have USPS pick it up when they drop off the mail. By staying home, I’m doing my duty to stay home and save lives. Usually, I prefer to drop off my packages in person, but these are strange times so I do my best to help.</p><p>In the morning, I put the package on the porch for pickup and notice about lunchtime it’s gone so I assume it’s been picked up and all good, yes?</p><p>Of course, <strong>this is the package</strong> that for whatever reason doesn’t get scanned or there’s no tracking information for.  That means I have no idea if and when it gets delivered. Sigh. I usually get a confirmation email that they have picked up the package or at least I have a tracking number, but not this time.</p><p>This is not a big problem at all and the worse case is that I’m out a bit of money and life goes. But still, I would have loved to have this <strong>one package</strong> delivered without fail, but that does not seem to be the case.</p><p>There’s a small chance that the package was stolen in the 3 hours it was on the porch, but I kind of doubt it as I live in a pretty quiet neighborhood even without the pandemic and with it- it’s even quieter.</p><p>I hope this is just a ghost in the machine and it will all work out in the end. Compared to other things going on, the fact that I don’t have a tracking number seems rather small, but sometimes it’s the small things that bug you the most.</p><p>And this bugs me.</p>",
+            "url": "http://localhost:4000/usps-porch-pickup/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-29T00:00:00-04:00",
+            "date_modified": "2020-04-29T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/just-call-me-noah/",
+            "title": "Call me Noah",
+            "summary": null,
+            "content_text": "I’ve been aboard the SS PAUSE here locked in the house with a toddler for 40 days. That’s the amount of days I have been unemployed thanks to the virus, and the efforts to contain it.I’m not complaining. If I can stay home and save a life then I am all for that. It’s just, the weather could be nicer  - you know? Even with nap times (Sporadic at best) it makes for a long day let me tell you. I have been locked here in the house with her for longer now that noah when he had to collect all the animals - you know the story.Anyway, it’s been a challenge sometimes. And she’s a good kid too, it’s just she’s starting to be so active and it seems like I am always either shooing her away from danger or picking up after her. Also, how did rice grains get into her bedroom?As it stands right now, I have another 20 days so far of being here at home with the kiddo and depending, it might be longer. It’s a great way to bond with your daughter that’s for sure when you spend every waking hour with her.Today thankfully, it warmed up and I was able to take her out in the stroller for a long walk so that helps. I pity the parents that have to juggle both work and kids at home - at least I can dedicate all my time for her which when you think about it that way - 40 days together isn’t so bad. :)Stay safe out there. The waters can be rough.",
+            "content_html": "<p><img src=\"/images/boat.jpg\" alt=\"boat\" /></p><p>I’ve been aboard the SS <a href=\"https://coronavirus.health.ny.gov/home\">PAUSE</a> here locked in the house with a toddler for 40 days. That’s the amount of days I have been unemployed thanks to the virus, and the efforts to contain it.</p><p>I’m not complaining. If I can stay home and <strong>save a life</strong> then I am all for that. It’s just, the weather could be nicer  - you know? Even with nap times (Sporadic at best) it makes for a long day let me tell you. I have been locked here in the house with her for longer now that noah when he had to collect all the animals - you know the story.</p><p>Anyway, it’s been a challenge sometimes. And she’s a good kid too, it’s just she’s starting to be so <strong>active</strong> and it seems like I am always either shooing her away from danger or picking up after her. Also, how did rice grains get into her bedroom?</p><p>As it stands right now, I have another 20 days so far of being here at home with the kiddo and depending, it might be longer. It’s a great way to bond with your daughter that’s for sure when you spend <strong>every waking hour</strong> with her.</p><p>Today thankfully, it warmed up and I was able to take her out in the stroller for a long walk so that helps. I pity the parents that have to juggle both work and kids at home - at least I can dedicate all my time for her which when you think about it that way - 40 days together isn’t so bad. :)</p><p>Stay safe out there. The waters can be rough.</p>",
+            "url": "http://localhost:4000/just-call-me-noah/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-28T00:00:00-04:00",
+            "date_modified": "2020-04-28T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/new-website/",
+            "title": "A New Website",
+            "summary": null,
+            "content_text": "I do this a lot. I register a cool domain name and then get all excited about the project in the first few hours and then I realize that holy, this is going to be a lot of work.So, I quit. Because I get scared. What if I wasted all that time? What if nobody visits? What if I offer no value?What. If.But then I got to thinking: why don’t I just write the content that was going to be on the other site on this one. Then I would have all the eggs in one basket, instead of trying to get another site up and running. It’s not much of headstart I have here but at least I have this website setup already.I have read that others have written 5000 posts in one year for a brand new site and I have no allusions that I too can do this as I already have my own goal for writing so I don’t need to find an unrealistic goal of five thousand posts a year here too.But, I’m going to start to write about stuff that interests me more because this site is about me first and foremost and and my thoughts -  and about what I see if nothing else.So I guess is a warning: be prepared for some rambling here. I’m going to start writing about stuff I like. A lot.You have been warned. :)",
+            "content_html": "<p><img src=\"/images/code.webp\" alt=\"image\" /></p><p>I do this a lot. I register a <a href=\"http://www.jim.am\">cool domain name</a> and then get all excited about the project in the first few hours and then I realize that holy, <strong>this is going to be a lot of work</strong>.</p><p>So, I quit. Because I get scared. What if I wasted all that time? What if nobody visits? What if I offer no value?</p><p>What. If.</p><p>But then I got to thinking: why don’t I just write the content that was going to be on the other site on this one. Then I would have all the eggs in one basket, instead of trying to get another site up and running. It’s not much of headstart I have here but at least I have this website setup already.</p><p>I have read that others have written <a href=\"https://john.do/5k-posts/\">5000 posts</a> in one year for a brand new site and I have no allusions that I too can do this as I already have my <a href=\"https://jim.am/one-million-words/\">own goal</a> for writing so I don’t need to find an unrealistic goal of five thousand posts a year here too.</p><p>But, I’m going to start to write about stuff that <strong>interests me</strong> more because this site is about me first and foremost and and my thoughts -  and about what I see if nothing else.</p><p>So I guess is a warning: be prepared for some rambling here. I’m going to start writing about stuff I like. A lot.</p><p>You have been warned. :)</p>",
+            "url": "http://localhost:4000/new-website/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-27T00:00:00-04:00",
+            "date_modified": "2020-04-27T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/whale-bath-mat/",
+            "title": "A Bath Mat for Toddlers",
+            "summary": null,
+            "content_text": "It’s her 15th birthday today (in months) so when she took her bath today she did it without having plonked her into a laundry tub first.But without the laundry tub to keep her safe in the tub, she wiggles around on her rear end and thinks that she can move around in the tub just as she can on the carpet and for everybody that’s slipped in the bathtub knows: that’s not the case!There were a few close calls today so I thought I would investigate the best bath mats for toddlers and a lot of them look pretty ugly - not that matters much, but I think bath time should be fun and not boring at all.I ended up buying the Skip Hop Moby Non Slip Bath Mat in blue for a few reasons: one is that it actually has some color to it and second that it looks well designed. When you’re done with it you can hang it up to dry and it looks like it has channels in it for the water to leak out.Bath Mats can get pretty scrungy really fast so I wanted something that would be washable too and this seems to fit the bill.What I didn’t want to buy were those bath mat stickers that get really gross and  then you have to scrape them off with a sticker. ew.So there you have. Not only do we have lots of toys  we now have a bath mat for the tub.Hopefully once it arrives there will be no more close calls of slipping in the tub.",
+            "content_html": "<p><img src=\"/images/whale.webp\" alt=\"whale bath mat\" /></p><p>It’s her 15th birthday today (in months) so when she took her bath today she did it without having plonked her into a <a href=\"https://amzn.to/3cNSu4Z\">laundry tub</a> first.</p><p>But without the laundry tub to keep her safe in the tub, she wiggles around on her rear end and thinks that she can move around in the tub just as she can on the carpet and for everybody that’s slipped in the bathtub knows: that’s not the case!</p><p>There were a few close calls today so I thought I would investigate the <a href=\"https://amzn.to/35a27Z6\">best bath mats for toddlers</a> and a lot of them look <a href=\"https://amzn.to/3aM9DuN\">pretty ugly</a> - not that matters much, but I think <strong>bath time should be fun</strong> and not boring at all.</p><p>I ended up buying the <a href=\"https://amzn.to/3cSrXn4\">Skip Hop Moby Non Slip Bath Mat</a> in blue for a few reasons: one is that it actually has some color to it and second that it looks well designed. When you’re done with it you can hang it up to dry and it looks like it has channels in it for the water to leak out.</p><p>Bath Mats can get pretty scrungy really fast so I wanted something that would be washable too and this seems to fit the bill.</p><p>What I didn’t want to buy were those <a href=\"https://amzn.to/2S6cCre\">bath mat stickers</a> that get really gross and  then you have to scrape them off with a sticker. ew.</p><p>So there you have. Not only do we have lots of <a href=\"https://jim.am/the-toys/\">toys</a>  we now have a bath mat for the tub.</p><p>Hopefully once it arrives there will be no more close calls of slipping in the tub.</p>",
+            "url": "http://localhost:4000/whale-bath-mat/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-26T00:00:00-04:00",
+            "date_modified": "2020-04-26T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/the-toys/",
+            "title": "The Toys",
+            "summary": null,
+            "content_text": "All these toys already.I really don’t know where all these come from. Truly. They seem to accumulate overnight..you would think they were rabbits living under our shed (which is a whole other story)Today was kind of a big day. She managed to pull herself up to the toybox all by herself and starting to pull stuff out. As this was the first time that this happend I let it slide. I mean, this is the equivalent of pulling your weight up until you can get your legs under you - that’s a lot of work and something that I am sure I could not do.So, toys.We have talking elephants, multiples of stuffed bears, toys with suction cups, 2 tablets, one laptop and one toy is one where it’s a pair and they talk to each other. OMG do I want a mute button on that thing.Despite having all these toys that don’t even fill our toybox to maximum capacity she’s most iterested in the stuff she can’t or shouldn’t have like phone charging cords or other dangerous stuff in the house. We’ve baby-proofed with the outlet plugs and door stops so we’re good but if you want to be sure if your home is baby-proofed the only way to find out is to let a baby loose and they will let you know in under a minute.One nice thing about having a bunch of toys is that there was a lot that were forgotten about so it’s like Christmas all over. There’s also the fact that I prune the toybox from time to time and donate the toys we don’t need as she’s grown out of them or we just have too many.All of the toys you see - and more -  will be gone and forgotten over the years and replaced by an iPhone before I would like so for just today I’m celebrating her toy collection.",
+            "content_html": "<p><img src=\"/images/mess.webp\" alt=\"messy\" /></p><p>All these toys already.</p><p>I really don’t know where all these come from. Truly. They seem to accumulate overnight..you would think they were rabbits living under our shed (which is a whole other story)</p><p>Today was kind of a big day. She managed to pull herself up to the toybox all by herself and starting to pull stuff out. As this was the <strong>first time</strong> that this happend I let it slide. I mean, this is the equivalent of pulling your weight up until you can get your legs under you - that’s a lot of work and something that I am sure I could not do.</p><p>So, toys.</p><p>We have <a href=\"https://amzn.to/3aF661d\">talking elephants</a>, multiples of <a href=\"https://amzn.to/3f13Bd0\">stuffed bears</a>, <a href=\"https://amzn.to/2x9G3BB\">toys with suction cups</a>, <a href=\"https://amzn.to/3eS8Xak\">2 tablets</a>, one <a href=\"https://amzn.to/2KM9sFf\">laptop</a> and one toy is one where it’s a pair and they <strong>talk to each other</strong>. OMG do I want a mute button <a href=\"https://amzn.to/2Y4G2K8\">on that thing</a>.</p><p>Despite having all these toys that don’t even fill <a href=\"https://amzn.to/2yJxwpr\">our toybox</a> to maximum capacity she’s most iterested in the stuff she can’t or shouldn’t have like phone charging cords or other dangerous stuff in the house. We’ve baby-proofed with the outlet plugs and door stops so we’re good but if you want to be sure if your home is baby-proofed the <strong>only</strong> way to find out is to let a baby loose and they will let you know in under a minute.</p><p>One nice thing about having a bunch of toys is that there was a lot that were forgotten about so it’s like Christmas all over. There’s also the fact that I <strong>prune</strong> the toybox from time to time and donate the toys we don’t need as she’s grown out of them or we <strong>just have too many</strong>.</p><p>All of the toys you see - and more -  will be gone and forgotten over the years and replaced by an <a href=\"http://apple.com\">iPhone</a> before I would like so for just today I’m celebrating her toy collection.</p>",
+            "url": "http://localhost:4000/the-toys/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-25T00:00:00-04:00",
+            "date_modified": "2020-04-25T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/wyze-cam/",
+            "title": "The Wyze Cam",
+            "summary": null,
+            "content_text": "When I bought this little $25.00 wireless camera I didn’t have a child so this was really just an impulse buy one weekend when the wife was away and I wanted to set it up in the living room to watch the dog while I was out.News flash: The dog slept on the carpet. a lotAnyway, the camera. If you bought it to keep an eye on the dog, it works. But as a kid watcher this thing is awesome.Not only can I keep an eye on my little one sleeping in her crib while I’m down in my man cave writing. I have an old Amazon Fire Tablet that I wasn not using anymore so it has become my dedicated machine to watch the kiddo while I play downstairs at night.I mostly use it as a kiddo watcher machine with the sound off, because if she’s screaming she’s awake and I can see that she’s awake but there’s times when the sound is handy too such as when you want to be sure she’s asleep before you  go watch that movie on netflixThis thing has a lot of functions I don’t use, and I should really read the manual again to see if I’m missing anything but for what I use it for, it allows me to see her sleeping in her crib at night and there’s no nicer sight after a long day in lockdown than to see your child at sleep at last :)",
+            "content_html": "<p><img src=\"/images/wyze.webp\" alt=\"image\" /></p><p>When I bought this little <a href=\"https://amzn.to/3eQQJ9h\">$25.00 wireless camera</a> I didn’t have a child so this was really just an impulse buy one weekend when the wife was away and I wanted to set it up in the living room to watch the dog while I was out.</p><p>News flash: The dog slept on the carpet. <strong>a lot</strong></p><p>Anyway, the camera. If you bought it to keep an eye on the dog, it works. But as a <strong>kid watcher</strong> this thing is awesome.</p><p>Not only can I keep an eye on my little one sleeping in her crib while I’m down in my man cave writing. I have an old <a href=\"https://amzn.to/3eNOdk3\">Amazon Fire Tablet</a> that I wasn not using anymore so it has become my dedicated machine to watch the kiddo while I play downstairs at night.</p><p>I mostly use it as a kiddo watcher machine with the sound off, because if she’s screaming she’s awake and I can <strong>see</strong> that she’s awake but there’s times when the sound is handy too such as when you want to be <strong>sure she’s asleep</strong> before you  go watch that movie on <a href=\"http://netflix.com\">netflix</a></p><p>This thing has a lot of functions I don’t use, and I should really read the manual again to see if I’m missing anything but for what I use it for, it allows me to see her sleeping in her crib at night and there’s no nicer sight after a long day in lockdown than to see your child at sleep at last :)</p>",
+            "url": "http://localhost:4000/wyze-cam/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-24T00:00:00-04:00",
+            "date_modified": "2020-04-24T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/goodbye-desktop/",
+            "title": "Goodbye, Desktop",
+            "summary": null,
+            "content_text": "This sucks. Earlier this year, I had bought cheap desktop PC on eBay for $40.00 and added a faster drive and it was working great as server in the basement.And, like every night I turn it off as I don’t need it to be on overnight so it only makes sense to save some energy and turn it off.Today, I go to turn it on and nothing. No lights, no noise, no fans. Nothing.It’s dead. Which is a bit of pain in the ass but compared to other catastrophes this week has seen. It was the cheap computer I used to play around with and try stuff so it’s no big deal.But now I’m out a desktop computer. Here’s the thing: I don’t think I am going to replace it. It was dated, big and noisy. Compared to the fanless notebook I using to write this, that thing was a beast.But with my laptop it’s silent and you don’t realize how loud computer fans can be until you don’t have any. I have moved my site over to my Vultr Server and I’m using my notebook as essentially a terminal and letting the server doing all the computing.The server isn’t free and it’s not quite as fast as my old PC, but it’s close enough and at $6 a month, it’s pretty cheap considering I don’t have to leave a computer plugged in and running all day when in reality I only need a ‘server’ for about an hour a day when I write.It’s sad that my cheap computer died, but I am OK and adjusting. I wonder if this was the last true desktop PC I ever buy?",
+            "content_html": "<p><img src=\"/images/matrix.webp\" alt=\"matrix\" /></p><p>This sucks. Earlier this year, I had bought <a href=\"https://amzn.to/2zsh5hB\">cheap desktop PC</a> on eBay for $40.00 and added a faster drive and it was working great as server in the basement.</p><p>And, like every night I turn it off as I don’t need it to be on overnight so it only makes sense to save some energy and turn it off.</p><p>Today, I go to turn it on and nothing. No lights, no noise, no fans. Nothing.</p><p>It’s dead. Which is a bit of pain in the ass but compared to <a href=\"https://jim.am/samsung-dryer-crap/\">other catastrophes</a> this week has seen. It was the cheap computer I used to play around with and try stuff so it’s no big deal.</p><p>But now I’m out a desktop computer. Here’s the thing: I don’t think I am going to replace it. It was dated, big and noisy. Compared to the <a href=\"https://amzn.to/3eMgTd5\">fanless notebook</a> I using to write this, that thing was a beast.</p><p>But with my laptop it’s <strong>silent</strong> and you don’t realize how loud computer fans can be until you don’t have any. I have moved my site over to my <a href=\"https://jim.am/cheap-vps-servers/\">Vultr Server</a> and I’m using my notebook as essentially a terminal and letting the server doing all the <strong>computing</strong>.</p><p>The server isn’t free and it’s not quite as fast as my old PC, but it’s close enough and at $6 a month, it’s pretty cheap considering I don’t have to leave a computer plugged in and running all day when in reality I only need a ‘server’ for about an hour a day when I write.</p><p>It’s sad that my cheap computer died, but I am OK and adjusting. I wonder if this was the last true desktop PC I ever buy?</p>",
+            "url": "http://localhost:4000/goodbye-desktop/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-23T00:00:00-04:00",
+            "date_modified": "2020-04-23T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/the-best-power-washer/",
+            "title": "The Power Washer",
+            "summary": null,
+            "content_text": "I bought a cheap power washer today for a few reasons:I had the $60I had the timeIt’s spring. Time to wash the winter away.I didn’t want to spend a lot of money on a powerwasher as I don’t really have much of a need for it save for the odd household task like washing cars and bikes and hosing off the deck every now and again.This is the power washer I boughtIt’s….fine. It’s not the most powerful power washer one can buy but I also bought it refurbished for $60.00, so for the price it does the trick.I’ve had better luck in the past when buying refurbished. This looked used vs refurbished and had dirt and marks from the previous owner but it’s only get dirty anyway, so whatever. It’s a tool.It only hit a high of about 40 degrees here so I didn’t spend a whole lot of time with this thing today but it seems to work well for what it does. I did a very quick job in the driveway to see if I can’t get an oil leak gone from the concrete driveway and I may be able to after a few passes.I have a few projects for this once it warms up including giving our free playhouse a good cleaning as well as giving our garage a good hose down.Then there’s the cars to clean and the deck and the windows ….BW better not see this post. She will get ideas. :P",
+            "content_html": "<p><img src=\"/images/powerwash.jpg\" alt=\"cheap power washer\" /></p><p>I bought a cheap power washer today for a few reasons:</p><ol><li>I had the $60</li><li>I had the time</li><li>It’s spring. Time to wash the winter away.</li></ol><p>I didn’t want to spend a lot of money on a powerwasher as I don’t <strong>really</strong> have much of a need for it save for the odd household task like washing cars and bikes and hosing off the deck every now and again.</p><p>This is the <a href=\"https://amzn.to/2VuqIVz\">power washer I bought</a></p><p><img src=\"/images/ryobi.jpg\" alt=\"ryobi power washer\" /></p><p>It’s….fine. It’s not the most powerful power washer one can buy but I also bought it refurbished for $60.00, so for the price it does the trick.</p><p>I’ve had better luck in the past when buying refurbished. This looked used vs refurbished and had dirt and marks from the previous owner but it’s only get dirty anyway, so whatever. It’s a tool.</p><p>It only hit a high of about 40 degrees here so I didn’t spend a whole lot of time with this thing today but it seems to work well for what it does. I did a very quick job in the driveway to see if I can’t get an oil leak gone from the concrete driveway and I may be able to after a few passes.</p><p>I have a few projects for this once it warms up including giving our <a href=\"http://127.0.0.1:4000/the-playhouse/\">free playhouse</a> a good cleaning as well as giving our garage a good hose down.</p><p>Then there’s the cars to clean and the deck and the windows ….</p><p>BW better not see this post. She will get ideas. :P</p>",
+            "url": "http://localhost:4000/the-best-power-washer/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-22T00:00:00-04:00",
+            "date_modified": "2020-04-22T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/first-step/",
+            "title": "The First Step",
+            "summary": null,
+            "content_text": "Today was her first step. It’s a start.Earlier this evening I had her standing with the help of her walker and over the time she pushed away the walker so that she was bent over hanging onto the walker and well, screaming - because walking is scary.I wondered when this day would come.I had to help her. I grabbed one of her legs and put it where it should be - closer to the walker and in front of her and then waited…And she did it! She cautiously lifted her left leg and brought it to be in line with her right.Yay! Somethimes it’s the little things.Also, the dryer is working thanks to a $350.00 cash infusion. Apparently the rollers on the thing where worn square which would explain the the knocking sound.",
+            "content_html": "<p><img src=\"/images/steps.jpg\" alt=\"steps\" /></p><p>Today was her first step. It’s a start.</p><p>Earlier this evening I had her standing with the help of her <a href=\"https://amzn.to/2XUsZek\">walker</a> and over the time she pushed away the walker so that she was bent over hanging onto the walker and well, screaming - because walking is scary.</p><p>I wondered when this day would come.</p><p>I had to help her. I grabbed one of her legs and put it where it should be - closer to the walker and in front of her and then waited…</p><p>And she did it! She cautiously lifted her left leg and brought it to be in line with her right.</p><p>Yay! Somethimes it’s the little things.</p><p>Also, the <a href=\"https://jim.am/samsung-dryer-crap/\">dryer is working</a> thanks to a $350.00 cash infusion. Apparently the rollers on the thing where worn square which would explain the the knocking sound.</p>",
+            "url": "http://localhost:4000/first-step/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-22T00:00:00-04:00",
+            "date_modified": "2020-04-22T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/bubble-machine/",
+            "title": "The Bubble Machine",
+            "summary": null,
+            "content_text": "We finally had time (and the nice weather) to get the bubble machine she got for easter out for it’s inaugural run. And, it was a hit!A big hit.Probaby the funniest part of our evening with a bubble machin when she would hum to the machine and making the exact same sound that this little battery operated toy from China makes (batteries not included).I’m surprised we made it this far today. She napped for maybe 20 minutes and I tried to get her to go down again with no luck so I am surprised that after dinner she had it in her to play with bubbles.But as soon as the bubble machine was done, so was she.",
+            "content_html": "<p><img src=\"/images/bubbles1.jpg\" alt=\"bubbles\" /></p><p>We finally had time (and the nice weather) to get the <a href=\"https://amzn.to/2KkVFoL\">bubble machine</a> she got for easter out for it’s inaugural run. And, it was a hit!</p><p>A big hit.</p><p>Probaby the funniest part of our evening with a bubble machin when she would hum to the machine and making the exact same sound that this little battery operated toy from China makes (batteries not included).</p><p>I’m surprised we made it this far today. She napped for maybe 20 minutes and I tried to get her to go down again with no luck so I am surprised that after dinner she had it in her to play with bubbles.</p><p>But as soon as the bubble machine was done, so was she.</p>",
+            "url": "http://localhost:4000/bubble-machine/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-20T00:00:00-04:00",
+            "date_modified": "2020-04-20T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/samsung-dryer-crap/",
+            "title": "Dryer Repair",
+            "summary": null,
+            "content_text": "Our Samsung Dryer crapped out. In a pandemic.Under normal circumstances we would be out a dryer for a few days and then back in business when the repair guy leaves.But with the coronavirus situation who knows when I can get anybody to come to the house to fix this thing.So, laundromat it is. While it is inconvenient is doable and far from the end of the world.  It’s not like we have anything else to do. It will be good to get out of the house - even if it is only for an hour to wash clothes.Who ever thought that going to the laundromat would be the big adventure of the day?It’s not even the money that pisses me off. Considering the state of this nation, the fact that a few things go wrong like this is of no importance whatsoever. We’re all healthy and the rest is just details.The thing that pisses me off is that this dryer is just 4 years old and this will be the second time I have had to have this thing repaired. Of course, the one year warranty on this thing is long gone so we will be out of pocket for this repair.I don’t think I will buy a Samsung again. Lesson Learned",
+            "content_html": "<p><img src=\"/images/laundry.png\" alt=\"dryer\" /></p><p>Our <a href=\"https://amzn.to/3eCCaWq\">Samsung Dryer</a> crapped out. In a pandemic.</p><p>Under normal circumstances we would be out a dryer for a few days and then back in business when the repair guy leaves.</p><p>But with the coronavirus situation <strong>who knows</strong> when I can get anybody to come to the house to fix this thing.</p><p>So, laundromat it is. While it is inconvenient is doable and far from the end of the world.  It’s not like we have anything else to do. It will be good to get out of the house - even if it is only for an hour to wash clothes.</p><p>Who ever thought that going to the laundromat would be the big adventure of the day?</p><p>It’s not even the money that pisses me off. Considering the state of this nation, the fact that a few things go wrong like this is of no importance whatsoever. We’re all healthy and the rest is just details.</p><p>The thing that pisses me off is that this dryer is just 4 years old and this will be the second time I have had to have this thing repaired. Of course, the one year warranty on this thing is long gone so we will be out of pocket for this repair.</p><p>I don’t think I will buy a Samsung again. Lesson Learned</p>",
+            "url": "http://localhost:4000/samsung-dryer-crap/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-19T00:00:00-04:00",
+            "date_modified": "2020-04-19T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/cheap-vps-servers/",
+            "title": "Vultr Servers",
+            "summary": null,
+            "content_text": "It’s kind of amazing to have so much available power with these VPS, servers, droplets, instances or whatever you want to call them.All I know is they are cheap. Back in the Day, I was paying $300 a month to have a dedicated server for my site. And to be honest, the server and the service for the server sucked so it’s great to have great service *and prices compared to what I used to pay.My server costs 6 bucks a month. That costs the same amount as a Latte at startbucks costs and I have to tell you I have more than one of those a month (at least, I did - pre COVID-19)For this six bucks I can setup the server from my phone and then actually write posts and publish from my phone*. Yes, it’s a PITA to do it with a small device like a phone but the fact that I even can is pretty neat.I still only use a fraction of my what this server can do. I use it to write my jekyll blog posts like this one, and then I ‘deploy’ it to firebase hosting where my site is hosted. I  could probably save a step and just host the site on the VULTR server too but my workflow is familiar and it’s easier to just have Google host it for me. It costs me about 2 cents a month for firebase hosting so I’m okay with the cost.Of course, there’s so much you can do with a server other than blogging but that’s what I’m using mine for. It’s also pretty fast for the price. Not as fast as my desktop computer for building this site but pretty close - 2 seconds vs 4 seconds.Having this server allows me to use any computer as dumb terminal pretty much as all the computing is not done on my computer but on this server instead.Another good thing about this stuff is that it’s priced per hour so you can fire one up and keep it running forever, or for 10 minutes and you will only get billed for your usage.I wish I had this when I needed a dedicated server for my site.",
+            "content_html": "<p><img src=\"/images/vultr.jpg\" alt=\"vultr\" /></p><p>It’s kind of amazing to have so much available power with these <a href=\"https://www.vps.net/\">VPS</a>, <a href=\"https://www.computerhope.com/jargon/s/server.htm\">servers</a>, <a href=\"http://www.digitalocean.com%22\">droplets</a>, <a href=\"http://cloud.google.com\">instances</a> or whatever you want to call them.</p><p>All I know is they are cheap. Back in the Day, I was paying $300 a month to have a dedicated server for my site. And to be honest, the server and the service for the server sucked so it’s great to have great service *<em>and prices</em> compared to what I used to pay.</p><p>My server costs 6 bucks a month. That costs the same amount as a Latte at <a href=\"http://www.starbucks.com\">startbucks</a> costs and I have to tell you I have more than one of those a month (at least, I did - pre COVID-19)</p><p>For this six bucks I can setup the server <strong>from my phone</strong> and then actually write posts and publish <em>from my phone</em>*. Yes, it’s a PITA to do it with a small device like a phone but the fact that I even can is pretty neat.</p><p>I still only use a <strong>fraction</strong> of my what this server can do. I use it to write my <a href=\"http://jekyllrb.com\">jekyll</a> blog posts like this one, and then I ‘deploy’ it to <a href=\"https://firebase.google.com/\">firebase hosting</a> where my site is hosted. I  could probably save a step and just host the site on the VULTR server too but my workflow is familiar and it’s easier to just have Google host it for me. It costs me about 2 cents a month for firebase hosting so I’m okay with the cost.</p><p>Of course, there’s so much you can do with a server other than blogging but that’s what I’m using mine for. It’s also pretty fast for the price. Not as fast as my desktop computer for building this site but pretty close - 2 seconds vs 4 seconds.</p><p>Having this server allows me to use <strong>any computer</strong> as dumb terminal pretty much as all the computing is not done on my computer but on this server instead.Another good thing about this stuff is that it’s priced <strong>per hour</strong> so you can fire one up and keep it running forever, or for 10 minutes and you will only get billed for your usage.</p><p>I wish I had this when I needed a dedicated server for my site.</p>",
+            "url": "http://localhost:4000/cheap-vps-servers/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-18T00:00:00-04:00",
+            "date_modified": "2020-04-18T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/thank-you-ups-amazon-usps/",
+            "title": "Thank You UPS",
+            "summary": null,
+            "content_text": "I was outside today filling up the car in case we do have an emergency and need to leave the house at least the car is full. And while at the gas station, I saw the UPS Truck.And I got to thinking that these folks need our appreciation in addtion to the front line workers at our hospitals there also so many others that need our thanks while we’re tucked in our homes while we PAUSE and stuck in our homes there are many out there who are working hard to make sure we have the neccesities of life (also, cookies.).So, to those working in the trucking, grocery, delivery, mail trades or anybody else who ventures outside in these scary times - thank you for the hard work and dangers you face everyday in your workday.",
+            "content_html": "<p><img src=\"/images/cardboard.png\" alt=\"carborard\" /></p><p>I was <strong>outside</strong> today filling up the car in case we <strong>do have an emergency</strong> and need to leave the house at least the car is full. And while at the gas station, I saw the UPS Truck.</p><p>And I got to thinking that these folks need our appreciation in addtion to the <a href=\"https://www.nytimes.com/2020/03/26/opinion/letters/coronavirus-health-care.html\">front line workers</a> at our hospitals there also <strong>so many others</strong> that need our thanks while we’re tucked in our homes while we <a href=\"https://www.governor.ny.gov/news/amid-ongoing-covid-19-pandemic-governor-cuomo-announces-nys-pause-extended-until-may-15\">PAUSE</a> and stuck in our homes there are many out there who are <strong>working hard</strong> to make sure we have the neccesities of life (also, cookies.).</p><p>So, to those working in the trucking, grocery, delivery, mail trades or anybody else who ventures outside in these scary times - thank you for the hard work and dangers you face everyday in your workday.</p>",
+            "url": "http://localhost:4000/thank-you-ups-amazon-usps/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-17T00:00:00-04:00",
+            "date_modified": "2020-04-17T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/blown-speaker/",
+            "title": "Over Blown",
+            "summary": null,
+            "content_text": "I’m usually more careful than this. But not this time.I blew a speaker. You see, I have a small little home office in a corner of thebasement next to the washing machine so, ya…It’s glamorous.Anyway, in this little office of mine I have a few stereo speakers that are worth next to nothing now that they are20 years old as a music source. Well, somehow before switching inputs I forgot to turn off the amplifier and boomblown speakers.Of the 4, I blew 2. So 50 percent.They are not blown per se and sound more like pfffffff…pffffft…pffft.But the good news is you can fix them, I think.I have ordered a speaker foam repair kit that should be here next week so I will be ableto see if I can fix these on my own. If I can - it will be $20 well spent for the  kit, but if I screw it up I willonly be out $20 so it’s worth a shot.Stay tuned.",
+            "content_html": "<p><img src=\"/images/blown.jpg\" alt=\"blown\" /></p><p>I’m usually more careful than this. But not this time.</p><p>I blew a speaker. You see, I have a small little home office in a corner of thebasement next to the <strong>washing machine</strong> so, ya…It’s glamorous.</p><p>Anyway, in this little office of mine I have a few stereo speakers that are worth next to nothing now that they are20 years old as a music source. Well, somehow before switching inputs I forgot to turn off the amplifier and <strong>boom</strong>blown speakers.</p><p>Of the 4, I blew 2. So 50 percent.</p><p>They are not <strong>blown</strong> per se and sound more like pfffffff…pffffft…pffft.</p><p>But the good news is you can fix them, I think.</p><p>I have ordered a <a href=\"https://amzn.to/2RJSyux\">speaker foam repair kit</a> that should be here next week so I will be ableto see if I can fix these on my own. If I can - it will be $20 well spent for the  kit, but if I screw it up I willonly be out $20 so it’s worth a shot.</p><p>Stay tuned.</p>",
+            "url": "http://localhost:4000/blown-speaker/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-17T00:00:00-04:00",
+            "date_modified": "2020-04-17T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/delta-airline-refund/",
+            "title": "The Delta Airlines Coronavirus Refund",
+            "summary": null,
+            "content_text": "It seems like every post I write recently has the word coronavirus in it. This wasn’t the plan when I started writing again here, but I guess with how much it’s disrupting our lives every day it’s understandble.Anyway, the plan..before all this Corona stuff was that BW was going to go away. And then, things changed and everybody stays inside.It then became my responsibility to cancel her flight, because nobody is going anywhere until this is all over.About 3 weeks ago I went online at delta and applied for a refund. Of course, it never showed after 3 weeks. So I had to call. I hate calling.Then I waited. About a half an hour. In the time it took me to get somebody on the phone at Delta, I managed to configure a server at vultr so that I  can blog easier.When I do get the CS Rep, she’s nice and tells me as of right now, the flight is not cancelled, so no refund. Even though nobody is flying they of course won’t cancel her flight in 2 weeks because on their end they are being overly optimistic that her flight will still…fly.So the best I could get was a credit. There was some back and forth here between us about what we should do, but it’s always better to take the credit and then worry about some future thing that may or may not happen.Bird in the hand, and all that. According to the representative,they are so backed up that it will be a month or so before my credit is posted online but I have a ticket number, so I should be good. The Delta Airlines Credit is good for 2 years until May 22.We are not big flyers (especially now) but I guess we will have to find some place to go between now and then.Maybe we will go to DisneyLand.",
+            "content_html": "<p><img src=\"/images/airplane.jpg\" alt=\"airplane\" />It seems like every post I write recently has the word <strong>coronavirus</strong> in it. This wasn’t the plan when I started writing again here, but I guess with how much it’s disrupting our lives every day it’s understandble.</p><p>Anyway, the plan..before all this Corona stuff was that BW was going to go away. And then, things changed and everybody stays inside.</p><p>It then became <strong>my responsibility</strong> to cancel her flight, because <strong>nobody</strong> is going anywhere until this is all over.</p><p>About 3 weeks ago I went online at <a href=\"http://delta.com\">delta</a> and applied for a refund. Of course, it never showed after 3 weeks. So I had to call. I hate calling.</p><p>Then I waited. About a half an hour. In the time it took me to get somebody on the phone at Delta, I managed to configure a server at <a href=\"http://vultr.com\">vultr</a> so that I  can blog easier.</p><p>When I do get the CS Rep, she’s nice and tells me as of right now, the flight is <strong>not cancelled</strong>, so no refund. Even though nobody is flying they of course won’t cancel her flight in 2 weeks because on their end they are being overly optimistic that her flight will still…fly.</p><p>So the best I could get was a credit. There was some back and forth here between us about what we should do, but it’s always better to <strong>take the credit</strong> and then worry about some future thing that may or may not happen.</p><p>Bird in the hand, and all that. According to the representative,they are so backed up that it will be a month or so before my credit is posted online but I have a ticket number, so I should be good. The Delta Airlines Credit is good for 2 years until May 22.</p><p>We are not big flyers (especially now) but I guess we will have to find some place to go between now and then.</p><p>Maybe we will go to DisneyLand.</p>",
+            "url": "http://localhost:4000/delta-airline-refund/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-16T00:00:00-04:00",
+            "date_modified": "2020-04-16T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/coronavirus-face-mask/",
+            "title": "The Coronavirus Mask",
+            "summary": null,
+            "content_text": "We haven’t left the house in days. In fact, I can’t even remember when the last time was we went anywhere other than around the block for a walk. So, we have not had much need for a mask as we’re all snuggled in the house.But. BW’s mother was making some homemade masks and said she would mail us a couple when done. Great, right?The homemade face masks show up and they look fine and considering they were free and we don’t go anywhere anyway I thought that these would be just fine. They fit. They’re a little hot to wear indoors but we only plan on staying in anyway, so great.Masks. Done.All is good until I get the one made for me strapped on my head and then BW says: “These are pretty good for old diapers!”Um…”whose diapers”? I ask.“Mine”Turns out my MIL has kept old cloth diapers for over 40 years because, you know - you never know when you might have a need for an old cloth diaper from the 70’s.You have never seen a guy rip a mask off his face so fast. Diapers? Really?Yes. Diapers.I don’t think I’m ever going outside again. I might need to use a mask.",
+            "content_html": "<p><img src=\"/images/fmask.jpg\" alt=\"image\" /></p><p>We haven’t left the house in <strong>days</strong>. In fact, I can’t even remember when the last time was we went anywhere other than around the block for a walk. So, we have not had much need for a mask as we’re all snuggled in the house.</p><p>But. BW’s mother was making some homemade masks and said she would mail us a couple when done. Great, right?</p><p>The homemade face masks show up and they look fine and considering they were free and we don’t go anywhere anyway I thought that these would be just fine. They fit. They’re a little hot to wear indoors but we only plan on staying in anyway, so great.</p><p>Masks. Done.</p><p>All is good until I get the one made for me strapped on my head and then BW says: “<strong>These are pretty good for old diapers!</strong>”</p><p>Um…”<strong>whose diapers</strong>”? I ask.</p><p>“<strong>Mine</strong>”</p><p>Turns out my MIL has kept old cloth diapers for <strong>over 40 years</strong> because, you know - you never know when you might have a need for an old cloth diaper from the 70’s.</p><p>You have never seen a guy rip a mask off his face so fast. Diapers? Really?</p><p>Yes. Diapers.</p><p>I don’t think I’m ever going outside again. I might need to use a mask.</p>",
+            "url": "http://localhost:4000/coronavirus-face-mask/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-15T00:00:00-04:00",
+            "date_modified": "2020-04-15T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/high-chair/",
+            "title": "The Best High Chair",
+            "summary": null,
+            "content_text": "I never thought I would write about a high chair, but here I am.This was a gift when she was born, and I have to tell you now that she’s bigger this has sure come in handy. I toss her in this at least 6 times a day for feeding and snacks.One reason I like this is that it’s small, lightweight and portable which means you can toss it in the trunk and take it with you to restaurants where it’s much easier to feed her in this thing than the big and bulky things you think of when you think of high chairs. (at least I do)At first, I was not in love with this chair as it seems to be pretty light and it was a struggle getting the tray to click in but now that we have had it for some time it seems we have the technique down pat when it comes go getting her in and out of it and fed.It’s also pretty easy to clean which is something that one doesn’t really think of too much when buying dining chairs for adults but boy, does she spill a lot so it’s very nice that this wipes up quick.One complaint would be the straps get a little grubby after a while but they are removable so you can toss ’em in the wash when they get too dirty.When it comes to restaurants - not that we do a lot of it anyway - and never now to COVID-19, this chair is easy to grab with one hand and bring into the restaurant with you and it probably takes up less room than the high chair from them.It’s also surprisingly stable. It looks top heavy but she’s bigger now  and has discovered she can wiggle and lean in the thing and to my amazement really she hasn’t toppled over when in this chair (yet).Some stuff you buy for kids is pure crap and just plastic overload but this chair actually looks not bad for a kids high chair too.Get your own here.",
+            "content_html": "<p><img src=\"/images/highchair.png\" alt=\"highchair\" /></p><p>I never thought I would write about a high chair, but here I am.</p><p>This was a gift when she was born, and I have to tell you now that she’s bigger this has sure come in handy. I toss her in this at least 6 times a day for feeding and snacks.</p><p>One reason I like this is that it’s small, lightweight and <strong>portable</strong> which means you can toss it in the trunk and take it with you to restaurants where it’s much easier to feed her in this thing than the <a href=\"https://amzn.to/2VveU3Y\">big and bulky</a> things you think of when you think of high chairs. (at least I do)</p><p>At first, I was not in love with this chair as it seems to be pretty light and it was a struggle getting the tray to <em>click</em> in but now that we have had it for some time it seems we have the technique down pat when it comes go getting her in and out of it and fed.</p><p>It’s also <strong>pretty easy to clean</strong> which is something that one doesn’t really think of too much when <a href=\"https://amzn.to/2XuGcdz\">buying dining chairs</a> for adults but boy, does <strong>she spill a lot</strong> so it’s very nice that this wipes up quick.</p><p>One complaint would be the straps get a little grubby after a while but they are removable so you can toss ’em in the wash when they get too dirty.</p><p>When it comes to restaurants - not that we do a lot of it anyway - and never now to COVID-19, this chair is easy to grab with one hand and bring into the restaurant with you and it probably takes up less room than the high chair from them.</p><p>It’s also surprisingly stable. It looks <strong>top heavy</strong> but she’s bigger now  and has discovered she can wiggle and lean in the thing and to my amazement really she hasn’t toppled over when in this chair (yet).</p><p>Some stuff you buy for kids is pure crap and just plastic overload but this chair actually looks not bad for a kids high chair too.</p><p>Get your own <a href=\"https://amzn.to/34xN9fn\">here</a>.</p>",
+            "url": "http://localhost:4000/high-chair/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-14T00:00:00-04:00",
+            "date_modified": "2020-04-14T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/goodbye-pc/",
+            "title": "Getting Rid of the PC",
+            "summary": null,
+            "content_text": "I have been toying with this idea for some time but I think it’s time to get rid of the PC I have. It’s an HP Elitedesk 800 G1 with 16GB of RAM and a 256GB hard drive and It bought it for a song so I have no qualms about selling it as I will probably make a few bucks.It’s…fine.It runs Windows, Linux and any other OS. Heck, with some hacking I could make it a Hackintosh. But here’s the thing. I don’t need it. I’m fine with my Chromebook as it runs Linux just fine and offers the Google Play Store as well so there’s  really no need for much more.I thought I needed windows so I could stream Tidal to my high resolution audio gear but I due to age I guess, I can’t determine an audible difference between Tidal vs YouTube Music and seeing as we already have an Google Play Music Family Subscription it doesn’t make sense to spend $20 a month more for differences I can’t hear.And considering all I need to write is a relatively fast-ish PC and a linux command line to build the site in Jekyll, I’m good. The Chromebook does all of this, and more.Also, Windows 10 isn’t really all that bad anymore, but it’s a learning curve I don’t want to have to try and flatten as we’re already trying to ##flattenthecurve and that one matters much more.",
+            "content_html": "<p><img src=\"/images/imac1.jpg\" alt=\"imac\" /></p><p>I have been toying with this idea for some time but I think it’s time to get rid of the PC I have. It’s an HP Elitedesk 800 G1 with 16GB of RAM and a 256GB hard drive and It bought it for a song so I have no qualms about selling it as I will probably make a few bucks.</p><p>It’s…fine.It runs Windows, Linux and any other OS. Heck, with some hacking I could make it a Hackintosh. But here’s the thing. I don’t need it. I’m fine with my Chromebook as it <a href=\"https://support.google.com/chromebook/answer/9145439?hl=en\">runs Linux</a> just fine and offers the <a href=\"https://play.google.com/store?hl=en_US\">Google Play Store</a> as well so there’s  really no need for much more.</p><p>I thought I needed windows so I could stream <a href=\"https://jim.am/tidal-hifi/\">Tidal</a> to my high resolution audio gear but I due to age I guess, I can’t determine an audible difference between Tidal vs YouTube Music and seeing as we already have an <a href=\"https://play.google.com/music\">Google Play Music</a> Family Subscription it doesn’t make sense to spend $20 a month more for differences I can’t hear.</p><p>And considering all I need to write is a relatively fast-ish PC and a linux command line to build the site in <a href=\"http://jekyllrb.com\">Jekyll</a>, I’m good. The Chromebook does all of this, and more.</p><p>Also, Windows 10 isn’t really all that bad anymore, but it’s a learning curve I don’t want to have to try and flatten as we’re already trying to ##flattenthecurve and that one matters much more.</p>",
+            "url": "http://localhost:4000/goodbye-pc/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-13T00:00:00-04:00",
+            "date_modified": "2020-04-13T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/big-fonts/",
+            "title": "Large Fonts",
+            "summary": null,
+            "content_text": "It used to be when I was younger and monitors were smaller that I would have my monitor set to the highest resolution all the time because there was more room for your windows and files.But now, the first thing I look for is how to increase the font size. I think there’s a few reasons for this.First, is that I’m no spring chicken any more. I’ve had bifocals for longer than I care to share. Also, the computers have got better.Secondly, even my chromebook has multiple desktops and split screen and easy ways to tab through windows so even though I have a lot of screen real estate, I don’t really need it as it’s quite easy to switch windows or desktops with any OS now to get to the window you need.And also screens are smaller. My “XL” phone measures under six inches and is probably my most used computer. Small screens and bigger font sizes are almost a must these days.I guess what I am trying to say is that all this 4k monitor and high refresh rate doesn’t mean a lot if you change the font size so the letters measure 2 inches tall.",
+            "content_html": "<p><img src=\"/images/glasses.jpg\" alt=\"images\" /></p><p>It used to be when I was younger and monitors were smaller that I would have my monitor set to the <strong>highest resolution</strong> all the time because there was more room for your windows and files.</p><p>But now, the first thing I look for is how to increase the font size. I think there’s a few reasons for this.</p><p>First, is that I’m no spring chicken any more. I’ve had bifocals for longer than I care to share. Also, the computers have got better.</p><p>Secondly, even my <a href=\"https://amzn.to/3b55Dq6\">chromebook</a> has multiple desktops and split screen and easy ways to tab through windows so even though I have a lot of screen real estate, I don’t really need it as it’s quite easy to switch windows or desktops with any OS now to get to the window you need.</p><p>And also screens are smaller. My “XL” phone measures under six inches and is probably my most used computer. Small screens and bigger font sizes are almost a must these days.</p><p>I guess what I am trying to say is that all this 4k monitor and high refresh rate doesn’t mean a lot if you change the font size so the letters measure 2 inches tall.</p>",
+            "url": "http://localhost:4000/big-fonts/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-12T00:00:00-04:00",
+            "date_modified": "2020-04-12T00:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/stir-crazy/",
+            "title": "Three Weeks and 1 Day",
+            "summary": null,
+            "content_text": "It’s been 3 weeks and 1 day since we left the house other than for food or pharmacy and like many in this country we’re going a little bit stir crazy with a one-year old in the house but I think I may have found the solution: the afternoon napIt really has become groundhog day around here as we the same thing at the same time every freaking day without fail pretty much.A day right now looks like this:Sleep until she says you have to get up. (about 7) and then figure out how pants work again and then go down and get the LO her bottle. Once she is rolling around on the floor then I figure out how the coffee maker works.I drink coffee, she babbles away on the floor for a half an hour. Once that’s done we have some breakfast and  then while I shower she plays with her rubber ducks on the floor.Once that’s all done it’s snack time! Goldfish for her, more coffee for me.By then it’s about 11 am and then she just plays on the floor and I usually do a chore or two around the house.Up next, it’s time for lunch andt then the daily update by Andrew Cuomo which brings us to about noonish. Sometimes there’s a bit of time for Sesame Street and sometimes it’s straight to bed for the Afternoon Nap.If I’m lucky she will stay down for an hour so I can nap too which brings us to 3pm or so. A bottle or a snack happens when she wakes up and then we play with her walker every day about 4pm for a bit. She has the standing and the holding figured out but there’s definitely no walking yet.5pm everybody eats (early,I know) and then we just survive the rest of the night until it’s bedtime about 7pm.Because we don’t leave the house bath times have been a little screwy but if she’s upset now is the time to get her into the tub to play with toys in the tub.One last bottle for her before bed and then poof we survived another day. :)The adults in the house have been watching Ozark to wind down from the exciting day. Then it’s one last hour on the internet or other time wasting activities (like writing thi  blog post) and then it’s bedtime for everybody!But, if you have kiddos that stil nap count yourself lucky like us, but also take care of yourself first and have a nap too. It’s a long day no matter who you are but if you can squeeze in a nap mid-day I highly recommend it.",
+            "content_html": "<p><img src=\"/images/espy.jpg\" alt=\"espy\" /></p><p>It’s been 3 weeks and 1 day since we left the house other than for food or pharmacy and like many in this country we’re going a little bit <strong>stir crazy</strong> with a one-year old in the house but I think I may have found the solution: <strong>the afternoon nap</strong></p><p>It really has become <a href=\"https://en.wikipedia.org/wiki/Groundhog_Day_(film)\">groundhog day</a> around here as we the same thing at the same time <strong>every freaking day</strong> without fail pretty much.</p><p>A day right now looks like this:</p><p>Sleep until she says you have to get up. (about 7) and then figure out how pants work again and then go down and get the LO her bottle. Once she is rolling around on the floor then I figure out how the coffee maker works.</p><p>I drink coffee, she babbles away on the floor for a half an hour. Once that’s done we have some breakfast and  then while I shower she plays with her rubber ducks on the floor.</p><p>Once that’s all done it’s snack time! Goldfish for her, more coffee for me.</p><p>By then it’s about 11 am and then she just plays on the floor and I usually do a chore or two around the house.</p><p>Up next, it’s time for lunch andt then the daily update by <a href=\"http://ny.gov\">Andrew Cuomo</a> which brings us to about noonish. Sometimes there’s a bit of time for <a href=\"https://amzn.to/34w2kFG\">Sesame Street</a> and sometimes it’s straight to bed for the Afternoon Nap.</p><p>If I’m lucky she will stay down for an hour so <strong>I can nap too</strong> which brings us to 3pm or so. A bottle or a snack happens when she wakes up and then we play with her walker every day about 4pm for a bit. She has the standing and the holding figured out but there’s definitely no walking yet.</p><p>5pm everybody eats (early,I know) and then we just survive the rest of the night until it’s bedtime about 7pm.Because we <strong>don’t leave the house</strong> bath times have been a little screwy but if she’s upset now is the time to get her into the tub to play with toys in the tub.</p><p>One last bottle for her before bed and then <em>poof</em> we survived another day. :)</p><p>The adults in the house have been watching <a href=\"https://www.netflix.com/title/80117552\">Ozark</a> to wind down from the exciting day. Then it’s one last hour on the internet or other time wasting activities (like writing thi  blog post) and then it’s bedtime for everybody!</p><p>But, if you have kiddos that <strong>stil nap</strong> count yourself lucky like us, but also take care of yourself first and <strong>have a nap too</strong>. It’s a long day no matter who you are but if you can squeeze in a nap mid-day I highly recommend it.</p>",
+            "url": "http://localhost:4000/stir-crazy/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-10T20:00:00-04:00",
+            "date_modified": "2020-04-10T20:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/doctor-supplies/",
+            "title": "Surprise Billing",
+            "summary": null,
+            "content_text": "I wish I didn’t have to post this, but Bernie is right - the health care in this country is ridiculous. Even if you have very good insurance as I am lucky enough to have you still get dinged non stop for stuff that should be insured.My latest example: I had a small procedure in January and was in and out in 2 hours from start to finish. A week of healing and I’m good again.Then the bills and explanation of benefits come. The first bill was pretty straight forward: They wanted to ding me for a co-pay for the anesthesia but whatever.But then, a week later I get a bill for the ‘supplies’ that the doctor used, like oxygen and an IV pole and other stuff which I have learned with all my research into this stuff is called DME for “Durable Medical Equipment”.It turns out accoring to my insurance plan that these DME’s are not covered and are applied to my deductable as they were not provided by an “in-network provider”.The Doctor? He’s in network, so we are good.The Supplies he used to do his job? The same guy’s supplies are not covered as they were from an out of network supplier. How can that be?It’s the same guy. His name is on both bills: one for his services (cutting me open) and the next bill was for the DME’s (the knife) and yet this one is not covered.And it’s not like this “medical equipment” was a pair of crutches or even a box of band-aids they sent me home with  - it’s oxygen to put me under and use of the machine!Maybe I am wrong but it sounds like this guy wants to paid twice: once for the services and then again for his equipment being used.No. Not going to happen. At very least, I’m fighting this because - why not? I have nothing to lose. If I lose an appeal I have to pay.If I don’t appeal this then I pay regardless so I might as well try to fight it.This just smells fishy to me. This procedure was “medically neccessary” and so the whole enchilada should be covered and not just what the insurance company feels like covering.It’s times like these I miss Canada and universal health care.",
+            "content_html": "<p><img src=\"/images/doctor.jpg\" alt=\"doctor\" /></p><p>I wish I didn’t have to post this, but Bernie is right - the health care in this country is ridiculous. Even if <strong>you have very good insurance</strong> as I am lucky enough to have you still get dinged non stop for stuff that should be insured.</p><p>My latest example: I had a small procedure in January and was in and out in 2 hours from start to finish. A week of healing and I’m good again.</p><p>Then the bills and explanation of benefits come. The first bill was pretty straight forward: They wanted to ding me for a co-pay for the anesthesia but whatever.</p><p>But then, a week later I get a bill for the ‘supplies’ that the doctor used, like oxygen and an IV pole and other stuff which I have learned with all my research into this stuff is called <strong>DME</strong> for “Durable Medical Equipment”.</p><p>It turns out accoring to my insurance plan that these DME’s are not covered and are applied to my deductable as they were not provided by an “in-network provider”.</p><p>The Doctor? He’s in network, so we are good.The Supplies he used to do his job? The same guy’s supplies are not covered as they were from an <strong>out of network supplier</strong>. How can that be?</p><p>It’s the same guy. His name is on both bills: one for his services (cutting me open) and the next bill was for the DME’s (the knife) and yet this one is not covered.</p><p>And it’s not like this “medical equipment” was a pair of <a href=\"https://amzn.to/34u3D84\">crutches</a> or even a <a href=\"https://amzn.to/2JWd3jn\">box of band-aids</a> they sent me home with  - it’s oxygen to put me under and use of the machine!</p><p>Maybe I am wrong but it sounds like this guy wants to paid twice: once for the services and then again for his equipment being used.</p><p>No. Not going to happen. At very least, I’m fighting this because - why not? I have <strong>nothing to lose</strong>. If I lose an appeal I have to pay.</p><p>If I don’t appeal this then <strong>I pay regardless</strong> so I might as well try to fight it.</p><p>This just smells fishy to me. This procedure was “medically neccessary” and so the whole enchilada should be covered and not just what the insurance company feels like covering.</p><p>It’s times like these I miss <a href=\"http://canada.ca\">Canada</a> and universal health care.</p>",
+            "url": "http://localhost:4000/doctor-supplies/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-09T20:00:00-04:00",
+            "date_modified": "2020-04-09T20:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/no-more-analytics/",
+            "title": "No More Analytics",
+            "summary": null,
+            "content_text": "I don’t care that you visit.Wait, that’s not what I mean. It means I don’t count your visit, and yes there is a difference.It’s also one less thing to ‘check’. Ever since I finally realized that this site is for me and for fun more than finance I actually write.One would think that this would mean more site visitors over time and that I would wan to count that, but meh. I will count words written rather than visitors as lately it has much more value to me.Lastly, with no cookies on this site I don’t have put one of those we use cookies warnings on this site. If there’s no trackers and no cookies there’s nothing to warn you about.And I found that if I track the pages you visit I find that I “chase the dragon” and only write about more stuff that’s popular instead of writing about other topics and exploring more stuff to write about.And that’s no fun.",
+            "content_html": "<p><img src=\"/images/graph.jpg\" alt=\"graph\" /></p><p>I don’t care that you visit.</p><p>Wait, that’s not what I mean. It means I don’t <strong>count</strong> your visit, and yes there is a difference.</p><p>It’s also one less thing to ‘check’. Ever since I finally realized that this site is for me and for fun more than finance I actually write.</p><p>One would think that this would mean more site visitors over time and that I would wan to <strong>count that</strong>, but meh. I will count <a href=\"http://jim.am/one-million-words\">words written</a> rather than visitors as lately it has much more value to me.Lastly, with no cookies on this site I don’t have put one of those <strong>we use cookies</strong> warnings on this site. If there’s no trackers and no cookies there’s nothing to warn you about.</p><p><img src=\"/images/cookies.png\" alt=\"cookies\" /></p><p>And I found that if I track the pages you visit I find that I “chase the dragon” and only write about more stuff that’s popular instead of writing about other topics and exploring more stuff to write about.</p><p>And that’s no fun.</p>",
+            "url": "http://localhost:4000/no-more-analytics/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-08T20:00:00-04:00",
+            "date_modified": "2020-04-08T20:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/living-with-coronavirus/",
+            "title": "Living With Coronavirus",
+            "summary": null,
+            "content_text": "I am not 100 percent sure, but I think that we have the virus at our house. Of course, we are not certain because the county does not have any tests for us to well, test.That means that all we can do is guess.  BW has it the worse with a high fever. So high, in fact that our doctor referred her to  the emergency room to get looked at  but again - no tests, they are  not sure -  but the diagnosis was “supposed coronavirus”.It looks like she has begun to overcome it though and with some Tylenol has been on the mend.For your  truly, I have had a dry cough, but no fever, so who knows.The little one, thankfully is fine. :)This is hard. Not only are we cooped up with each other and over the course of the day I have been the primary caregiver (which I don’t really mind all that much ) but we have the news AND EVERY DAY  the news has gotten worse. For our area we are not to see the worst of it until later in the month.This is not a complaint. It is what it is and we are doing the best we can to cope and nobody in the house is extremely sick which is very good newsAlso, we have toilet paper. (But not too much)It’s a different time, to be sure. I hope the  future will get better  but I fear after this pandemic things won’t be the same.Be safe out there.",
+            "content_html": "<p><img src=\"/images/facemask.jpg\" alt=\"image\" /></p><p>I am not 100 percent sure, but I think that we have the virus at our house. Of course, we are not certain because <a href=\"https://www2.erie.gov/health/coronavirus\">the county</a> does not have any tests for us to well, test.</p><p>That means that all we can do is guess.  BW has it the worse with a high fever. So high, in fact that our doctor referred her to  the emergency room to get looked at  but again - no tests, they are  not sure -  but the diagnosis was “supposed coronavirus”.</p><p>It looks like she has begun to overcome it though and with some Tylenol has been on the mend.</p><p>For your  truly, I have had a dry cough, but no fever, so who knows.</p><p>The little one, thankfully is fine. :)</p><p>This is hard. Not only are we cooped up with each other and over the course of the day I have been the primary caregiver (which I don’t really mind all that much ) but we have the news AND EVERY DAY  the news has gotten worse. For our area we are not to see the worst of it until later in the month.</p><p>This is not a complaint. It is what it is and we are doing the best we can to cope and nobody in the house is <strong>extremely</strong> sick which is <strong>very good news</strong></p><p>Also, we have toilet paper. (But not too much)</p><p>It’s a different time, to be sure. I hope the  future will get better  but I fear after this pandemic things won’t be the same.</p><p>Be safe out there.</p>",
+            "url": "http://localhost:4000/living-with-coronavirus/",
+            
+            
+            
+            
+            
+            "date_published": "2020-04-07T20:00:00-04:00",
+            "date_modified": "2020-04-07T20:00:00-04:00",
+            
+                "author":  {
+                "name": "tidyhusband",
+                "url": "http://www.jim.am",
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}

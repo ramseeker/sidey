@@ -1,0 +1,22 @@
+---
+title: "\n\t\t\t\t184 Pin DDR2 PC3200 SDRAM\t\t"
+date: 2016-08-03 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/184-pin-ddr2-pc3200-sdram/
+wordpress_id: 5114
+---
+
+The following Apple computers accept 184 Pin DDR2 PC3200 SDRAM ([check price](http://amzn.to/2azo0nO))
+
+
+
+
+PowerMac G5 1.8-2.7Ghz
+
+
+		

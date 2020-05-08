@@ -1,0 +1,79 @@
+---
+title: "\n\t\t\t\tFenced In\t\t"
+date: 2018-01-21 00:55:45 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/fenced-in/
+wordpress_id: 4938
+---
+
+BW came back from walking the dog:
+
+
+
+
+“We have bad news and more bad news” she said.
+
+
+
+
+“OK, Hit me”. I replied.
+
+
+
+
+“Our fence blew over”
+
+
+
+
+That’s not good. So I went out to investigate and lo and behold she was right. The door was ripped right out from the hinges and lying on the ground.
+
+
+
+
+Thankfully today wasn’t sub-zero in temperature so I got out my wrenches, some screws and some tape and got to work.
+
+
+
+
+The good news is the fence is up.  I’m not sure for how long and it’s quite possible a slight breeze would blow it over but time will tell.
+
+
+
+
+The bad news is we now need a new fence come spring time.
+
+
+
+
+I spent a good part of the day on the couch, but did manage to get a project started: replacing the light in the kitchen.
+
+
+![Maker:L,Date:2017-8-24,Ver:5,Lens:Kan03,Act:Kan02,E-ve](https://jim.am/wp-content/uploads/2018/01/MVIMG_20180120_111356.jpg)
+
+
+For today, I managed to get the popcorn ceiling scraped and  one coat of plaster in hopes of smoothing things out a bit.  We had to stop because - fence, but also because the circuit  the kitchen light is on is also the modem for the Internet so we had some priorities from which to choose.
+
+
+
+
+Lastly - and this saddens me to say this is for the time being I have disabled our pi-hole as it was blocking out some content and I think my server was getting hacked. But it was fun while it lasted.
+
+
+
+
+BW is happy and as we all know, a happy wife..
+
+
+![Maker:L,Date:2017-8-24,Ver:5,Lens:Kan03,Act:Kan02,E-ve](https://jim.am/wp-content/uploads/2018/01/MVIMG_20180120_184257.jpg)
+
+
+Will make you Cinnamon Buns. ?
+
+
+		

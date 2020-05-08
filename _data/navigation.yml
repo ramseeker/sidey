@@ -1,0 +1,7 @@
+links:
+- title: Jim
+  url: /
+- title: About
+  url: /about
+- title: Rss
+  url: /atom.xml

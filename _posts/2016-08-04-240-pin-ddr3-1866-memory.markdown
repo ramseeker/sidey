@@ -1,0 +1,22 @@
+---
+title: "\n\t\t\t\t240 Pin DDR3 1866 Memory\t\t"
+date: 2016-08-04 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/240-pin-ddr3-1866-memory/
+wordpress_id: 5107
+---
+
+The following Apple computers take DDR3 1866Mhz Memory ([check price](http://amzn.to/2anE2As))
+
+
+
+
+Mac Pro 6/12 Core 2.7-3.7GHz
+
+
+		

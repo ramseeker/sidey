@@ -1,0 +1,17 @@
+---
+title: "\n\t\t\t\ttest\t\t"
+date: 2016-01-01 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/test/
+wordpress_id: 5118
+---
+
+this is a [test](http://www.apple.com) of writing with quilter for an app and I have to say it’s
+
+
+		

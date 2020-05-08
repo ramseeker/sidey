@@ -1,0 +1,22 @@
+---
+title: "\n\t\t\t\tDDR2 PC4200 240 PIN DIMM\t\t"
+date: 2016-08-04 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/ddr2-pc4200-240-pin-dimm/
+wordpress_id: 5105
+---
+
+The following Apple computers accept DDR2 PC4200 240 PIN DIMMS ([check price](http://amzn.to/2aUQmho))
+
+
+
+
+iMac	PowerPC G5	1.9-2.1hz
+
+
+		

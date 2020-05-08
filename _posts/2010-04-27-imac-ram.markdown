@@ -1,0 +1,84 @@
+---
+title: "\n\t\t\t\tiMac RAM\t\t"
+date: 2010-04-27 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/imac-ram/
+wordpress_id: 5526
+---
+
+[iMac RAM](http://www.jim.am), or iMac Memory if you prefer, comes in many different memory configurations and specifications over the years as Apple has elected to keep the iMac monitor regardless of processor or even design changes, as soon as the last model is replaced with a new model, the new model is called iMac and is the older iMac model. As far as apple is concerned, an iMac is whatever th e most current version of the iMac Family.
+
+
+
+
+**[Cheap Apple iMac Prices](http://www.amazon.com/gp/product/B002QQ8IO6/ref=as_li_ss_tl?ie=UTF8&tag=ramseeker-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002QQ8IO6)**
+
+
+
+
+**iMac Names **
+
+
+
+
+Sometimes to avoid confusion, Apple will add a description to their iMacs such as iMac Intel i5 processor, or iMac G5 , or even iMac 27 inch. Some way to differentiate between the many iMac models. But for the most part, and especially when marketing Apple’s consumer based all in one desktop computer. Then it’s just iMac. But when you’re shopping for an iMac from even the apple store or amazon or looking up info in the apple knowledgebase the iMac model is usually specified by some name other than just iMac.
+
+
+
+
+**[iMac Memory ](http://www.jim.am/memory/iMac_(DDR3_1066)/)**
+
+
+
+
+<blockquote>
+
+> 
+> >  
+
+> [ as far as apple is concerned,](http://jim.am) an iMac is whatever th e most current version of the iMac Family.  
+
+>  
+
+>
+
+> 
+> </blockquote>
+
+
+
+
+When it comes down to iMac Memory, and when there was only the first iMac available, things were pretty easy  –  I created a page specifically for iMac RAM, and didnt’ do much planning for future iMacs to be honest. And then Apple went and released the slot loading iMac and now I had to differentiate between the two iMac models as they now take different memory. But, as there was only two different iMac models at the time I still, just made another page and called it iMac 350 to 500, or something along those lines.
+
+
+
+
+Apple went  and really put the kinks into my plans when they released the iMac Flat Panel models as then I had to not only track the lowest price, but there was two different types of RAM – one slot was user accessible yet the other slot you had to take your iMac into an apple certified repair center to get the other ram slot upgraded (what a stupid system, eh?). But still, there’s only 3 iMacs so I just made a new page to track the new ram that these new iMacs came with (pc133 sodimms) and i created a page called PC133. The Flat Panel iMacs release is when I had to rethink for future iMacs as I realized that this was the future, and apple would once release new computers that were new iMacs and completely different than their predecessors, yet would be named just iMac.
+
+
+
+
+With the release of the new Flat Panel iMacs that took PC2100 DDR sdram sodimms, I would just name the model and then (usually in brackets) I would put the memory type to differentiate the different iMac models.
+
+
+
+
+I continue with this naming strategy, up to and including the iMacs with Intel i5 processors as these models take DDR3 1066 SDRAM  so the pages are named in the format of: Model Name (Memory Type) for the current and all iMac models.
+
+
+
+
+The only downside for this system is that you have to know what memory type you need to take full advantage. I have tried to make things easier for you by separating the pull down menu so that I list current apple models first, and then list the older discontinued models.
+
+
+
+
+If you need any help with iMac RAM you can feel free to contact me and I will be glad to help you get the right memory for your iMac at the best price.
+
+
+		

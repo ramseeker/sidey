@@ -1,0 +1,17 @@
+---
+title: "\n\t\t\t\tsix cars\t\t"
+date: 2017-03-06 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/six-cars/
+wordpress_id: 5065
+---
+
+I photographed six cars tonight: a cruze, 3 trax’s, a traverse and an equinox. Weather: drizzle in the 50’s - pretty warm for march.
+
+
+		

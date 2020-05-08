@@ -1,0 +1,22 @@
+---
+title: "\n\t\t\t\t240 Pin DDR2 PC5300 SDRAM\t\t"
+date: 2016-08-03 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/240-pin-ddr2-pc5300-sdram/
+wordpress_id: 5112
+---
+
+The following Apple computers accept 240 Pin DDR2 PC5300 SDRAM ([check prices](http://amzn.to/2aubX07))
+
+
+
+
+Mac Pro	Dual Core	2.0-3.0GHz
+
+
+		

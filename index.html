@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="posts">
+<ul>
+{% for post in paginator.posts %}
+<li> {% if post.link %}
+			<h1>
+				<a  href="{{ post.link }}" style="color: #0366d6">{{ post.title | truncatewords: 4 }}
+<span>&#8594;</span>
+</a>
+			</h1>
+		{% else %}
+			<h1><a href="{{ post.url }}" style="color: #4f5256">{{ post.title |  truncatewords: 4 }}</a></h1>
+		{% endif %}
+		{% endfor %}</li>
+
+</ul>
+
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>
+</section>
+

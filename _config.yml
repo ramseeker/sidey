@@ -1,0 +1,54 @@
+site: Jim Fitzsimmons
+url: http://www.jim.am
+title: Jim Fitzsimmons
+description: I'm writing here.
+twitter:
+  username: tidyhusband
+  card: summary
+  creator: tidhusband
+author:
+  twitter: tidyhusband
+  name: tidyhusband
+  avatar:
+  email:
+  url: http://www.jim.am
+permalink: "/:title/"
+paginate: 100
+
+baseurl: ""
+
+markdown: CommonMark
+commonmark:
+  options:
+  - SMART
+  - FOOTNOTES
+  extensions:
+  - strikethrough
+  - autolink
+  - table
+url: https://getpoole.com
+baseurl: ''
+plugins:
+- jekyll-include-cache
+- jekyll-commonmark
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-commonmark
+paginate: 10
+exclude:
+- atom.xml
+- .editorconfig
+- .git
+- .jekyll-cache
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+keep_files:
+- images
+- public
+- wp-content

@@ -1,0 +1,52 @@
+---
+title: "\n\t\t\t\tDDR2 PC2700 SDRAM\t\t"
+date: 2016-08-04 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/ddr2-pc2700-sdram/
+wordpress_id: 5106
+---
+
+The following Apple computers take DDR2 PC2700 SDRAM ([check price](http://amzn.to/2anEoHi))
+
+
+
+
+Mac Mini 	PowerPC G4	1.25-1.42GHz
+
+
+
+
+Mac Mini	PowerPC G4	1.33-1.5GHz
+
+
+
+
+Mac Mini	PowerPC G4
+
+
+
+
+eMac	PowerPC G4	1.25Ghz
+
+
+
+
+eMac	PowerPC G4
+
+
+
+
+PowerMac G4 ‘Mirrored Drive’	PowerPC G4	867Mhz-1.25GHz
+
+
+
+
+PowerMac G4 ‘2003’
+
+
+		

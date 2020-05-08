@@ -1,0 +1,117 @@
+---
+title: "\n\t\t\t\t200 Pin DDR2 PC5300\t\t"
+date: 2016-08-04 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/200-pin-ddr2-pc5300/
+wordpress_id: 5109
+---
+
+The following Apple Computers accept 200 Pin DDR2 PC5300 memory upgrades ([check price](http://amzn.to/2aPSlC5))
+
+
+
+
+15” MacBook Pro	Intel Core Duo	1.83-2.0Ghz
+
+
+
+
+15” MacBook Pro	Intel Core2 Duo	2.16-2.3Ghz
+
+
+
+
+15” MacBook Pro	Intel Core2 Duo	2.2-2.4Ghz
+
+
+
+
+15” MacBook Pro	Intel Core2 Duo	2.4-2.5Ghz
+
+
+
+
+17” MacBook Pro	Intel Core Duo	2.16Ghz
+
+
+
+
+17” MacBook Pro	Intel Core2 Duo	2.33Ghz
+
+
+
+
+17” MacBook Pro	Intel Core2 Duo	2.4Ghz
+
+
+
+
+17” MacBook Pro	Intel Core2 Duo	2.5Ghz
+
+
+
+
+13” MacBook	Intel Core Duo	1.83-2.0GHz
+
+
+
+
+13” MacBook	Intel Core2 Duo	1.83-2.0GHz
+
+
+
+
+13” MacBook	Intel Core2 Duo	2.0-2.16Ghz
+
+
+
+
+13” MacBook	Intel Core2 Duo	2.0-2.2GHz
+
+
+
+
+13” MacBook	Intel Core2 Duo
+
+
+
+
+Mac Mini	Intel Core	1.5-1.67GHz
+
+
+
+
+Mac Mini	Intel Core Duo	1.83-2.0GHz
+
+
+
+
+Mac Mini	Intel Core Duo	1.66-1.83GHz
+
+
+
+
+Mac Mini	Intel Core2 Duo	1.83-2.0GHz
+
+
+
+
+iMac	Intel Core Duo	1.83-2.0hz
+
+
+
+
+iMac	Intel Core Duo2	1.83-2.33hz
+
+
+
+
+iMac	Intel Core Duo2	2.0-2.8Ghz
+
+
+		

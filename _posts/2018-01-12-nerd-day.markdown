@@ -1,0 +1,137 @@
+---
+title: "\n\t\t\t\tNerd Day\t\t"
+date: 2018-01-12 20:45:49 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/nerd-day/
+wordpress_id: 4964
+---
+
+Not every post can be about how wonderful BW is and this one of them.
+
+
+
+
+Wait, let me rephrase that: BW, you ARE wonderful but it’s just that this post won’t be to your liking. ( Whew, that was close)
+
+
+
+
+Anyway, the past day or two I’ve been in nerd heaven at home here exploring new software and the like and I just have to share this:
+
+
+
+
+![](http://jim.am/wp-content/uploads/2018/01/null-1.png)
+
+
+
+
+It’s called [Pi-Hole](https://pi-hole.net/) and it’s software intended to be installed on a raspberry pi and then connected to your router. It then only allows your computer to call from known servers and not ad servers.
+
+
+
+
+And wow! I forgot how fast the web could be before it got ruined with ads. I’m not so much against some webmaster with a few ads that makes him/her some money. It’s just that some have really gone to town with the advertising and tracking and I don’t need to know that 1 easy step to lose belly fat.
+
+
+
+
+Here’s an example:
+
+
+
+
+**With Ads**
+
+
+
+
+![](http://jim.am/wp-content/uploads/2018/01/null-2.png)
+
+
+
+
+**Without Ads**
+
+
+
+
+![](http://jim.am/wp-content/uploads/2018/01/null-3.png)
+
+
+
+
+Pages load much faster when you’re just loading the content and not all the ads.
+
+
+
+
+I didn’t have a raspberry pi, but I did have an old laptop that could act as an ad blasting computer and now every device on our network doesn’t see an ad ever.
+
+
+
+
+Total cost to zap internet ads : Nothing.
+
+
+
+
+## Anker Bluetooth Headphones ![](http://jim.am/wp-content/uploads/2018/01/null-21.jpeg)
+
+
+
+
+This was an impulse buy.
+
+
+
+
+I bought them when I was at Lowes buying the blinds for our new [family room makeover](http://jim.am/2018/01/08/50-shades-of-gray/) and as they were half price marked down to $14.99 from $39.99 I figured what the heck, I can use them for listening to podcasts when I walk the dog.
+
+
+
+
+Turns out, they’re much better than I expected. They connect right away, and the battery life seems to not be a problem for my use case and they stay in my ears. A neat feature is they have magnets on the back and when you connect them not only does it prevent tangles but it also turns the headphones off.
+
+
+
+
+These are great.[ Buy Them](http://amzn.to/2qYwotP)
+
+
+
+
+## Mood Lighting
+
+
+
+
+![](http://jim.am/wp-content/uploads/2018/01/null-22.jpeg)
+
+
+
+
+I found some LED strip lights on ebay for ten bucks and thought I might as well try them and put them behind the TV and see how they look. Turns out, they work pretty well and even came with a remote control for brightness and colors. They plug directly into the TV for power too so when the TV gets turned off so do the lights.
+
+
+
+
+Lastly…
+
+
+
+
+It seems I got a [raise](https://www.ny.gov/new-york-states-minimum-wage/new-york-states-minimum-wage) at work.
+
+
+
+
+Have a great weekend. ?
+
+
+		

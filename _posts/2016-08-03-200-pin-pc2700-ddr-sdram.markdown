@@ -1,0 +1,32 @@
+---
+title: "\n\t\t\t\t200 Pin PC2700 DDR SDRAM\t\t"
+date: 2016-08-03 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/200-pin-pc2700-ddr-sdram/
+wordpress_id: 5111
+---
+
+The following Apple computers accept 200 Pin PC2700 DDR ([check price](http://amzn.to/2ahz9gM))
+
+
+
+
+iMac PowerPC G4 1.25-1.42Ghz
+
+
+
+
+Mac Mini PowerPC G4 1.25-1.42Ghz
+
+
+
+
+eMac PowerPC G4 1.25-1.42Ghz
+
+
+		

@@ -1,0 +1,34 @@
+---
+title: "\n\t\t\t\tEtcher\t\t"
+date: 2017-07-05 14:30:42 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/etcher/
+wordpress_id: 5012
+---
+
+[![](https://jim.am/wp-content/uploads/2017/07/screenshot-1x.gif)](https://etcher.io/)
+
+
+
+
+I have tried this app and if you need a quick and good looking way to burn an ISO file to either a SD Card, CD ROM or USB Drive this is my choice
+
+
+
+
+<blockquote>Burn images to SD cards & USB drives, safely and easily.Download for Linux x64Toggle Dropdown
+> 
+> </blockquote>
+
+
+
+
+Link: _[Etcher](https://etcher.io/)_
+
+
+		

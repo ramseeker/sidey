@@ -1,0 +1,32 @@
+---
+title: "\n\t\t\t\t240 Pin DDR2 PC6400 SDRAM\t\t"
+date: 2016-08-03 00:00:00 Z
+categories:
+- jim
+author: macseek@gmail.com
+comments: true
+excerpt: "\n\t\t\t\t\t\t"
+layout: post
+link: https://jim.am/240-pin-ddr2-pc6400-sdram/
+wordpress_id: 5110
+---
+
+The following Apple computers accept 240 Pin DDR2 SDRAM ([check prices](http://amzn.to/2avabZK))
+
+
+
+
+Mac Pro Quad Core 3.0GHz
+
+
+
+
+Mac Pro Quad Core 2.8GHz
+
+
+
+
+Mac Pro 8 Core 2.8-3.2GHz
+
+
+		
