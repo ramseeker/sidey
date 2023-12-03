@@ -3,6 +3,9 @@ layout: default
 ---
 
 <section class="posts">
+  I'm Jim.  I have written about {{ site.posts | size }} things (and counting)
+
+  {% include search.html %}
 <ul>
 {% for post in paginator.posts %}
 <li> {% if post.link %}
